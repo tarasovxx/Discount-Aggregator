@@ -1,2 +1,2 @@
 # Discount-Aggregator
-A project to assemble many discounts and offers at one website
+A project that assembles many discounts and offers at one website.
