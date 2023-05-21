@@ -1,21 +1,85 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset=«UTF-8»>
-    <title>Kalyani‘s Resume</title>
-    <link rel = "stylesheet" type = "text/css" href ="{{url_for('static', filename = 'main.css')}}">
-    <script src="/static/javascript/javascript.js">
+    <title>Discounts</title>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .discount {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #fff;
+            transition: all 0.3s ease;
+        }
+        .discount:hover {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+        .discount img {
+            max-width: 100%;
+            height: auto;
+        }
+        .discount h2 {
+            margin-top: 0;
+            font-size: 24px;
+            color: #333;
+        }
+        .discount .price {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #f00;
+        }
+        .discount .full-price {
+            text-decoration: line-through;
+            color: #999;
+            margin-right: 10px;
+        }
+        .discount .discount-price {
+            color: #f00;
+            margin-right: 10px;
+        }
+        .discount .discount-percent {
+            background-color: #f00;
+            color: #fff;
+            padding: 2px 5px;
+            border-radius: 5px;
+            font-size: 14px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .discount a {
+            color: #333;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        .discount a:hover {
+            color: #f00;
+        }
+    </style>
 </head>
-
-<img src = "/static/images/discount.jpg" height = "200"/>
 <body>
-    <h1 class = "styled">
-        Kalyani’s Resume
-    </h1>
-    This page will contain my resume
-    <br>
-    <br>
-    <p id=«para»> </p>
-    <button id="button" type="button" onclick="myFunction()"> Click to see Resume </button>
+    <div class="container">
+        <h1>Скидки</h1>
+        {% for promotion in promotions %}
+            <div class="discount">
+                <h2>{{ promotion.title }}</h2>
+                <a href="{{ promotion.link}}" target="_blank"><img src="{{ promotion.img_link }}" alt="{{ promotion.title }}"></a>
+                <div class="price">
+                    <span class="full-price">{{ promotion.full_price }} руб.</span>
+                    <span class="discount-price">{{ promotion.discount_price }} руб.</span>
+                    <span class="discount-percent">{{ promotion.discount }}% скидка</span>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
 </body>
 </html>
