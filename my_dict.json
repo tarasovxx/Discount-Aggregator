@@ -1,21 +1,5 @@
 [
     {
-        "title": "Смартфон Huawei Mate 50 8/256Gb,  серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-huawei-mate50-256gb-8gb-serebristyi-3g-4g-2sim-6-7-1224x2700-1892198/",
-        "img_link": "https://cdn.citilink.ru/Vc05-7oymypQ-wXgJ8qn8_TiMjrse_5ciXmMJSPP5jw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1892198_v01_b.jpg",
-        "full_price": 56990,
-        "discount_price": 49990,
-        "discount": 12
-    },
-    {
-        "title": "Смартфон TECNO Camon 19 6/128Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-128gb-6gb-chernyi-3g-4g-2sim-6-8-ips-1080x2460-1800332/",
-        "img_link": "https://cdn.citilink.ru/PVNbdLVI2lcvRi9P3LbwmsMiMgMHlCnLWMRcI6SYmEU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800332_v01_b.jpg",
-        "full_price": 14690,
-        "discount_price": 11990,
-        "discount": 18
-    },
-    {
         "title": "Смартфон REALME C25s 4/64Gb,  серый",
         "link": "https://www.citilink.ru/product/smartfon-realme-c25s-64gb-4gb-seryi-3g-4g-6-5-720x1600-and11-48mpix-80-1628173/",
         "img_link": "https://cdn.citilink.ru/RxrTWTml02uATYPnkQ2ZiA7MM0gijFSQPCej3ym7x9Q/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1628173_v01_b.jpg",
@@ -24,1020 +8,108 @@
         "discount": 18
     },
     {
-        "title": "Смартфон Xiaomi Redmi 9A 2/32Gb,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-9a-32gb-seryi-1402120/",
-        "img_link": "https://cdn.citilink.ru/3-o2cIp81MxF-2BjuEj83hQDRThZ5UroHij8RAhJIOQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402120_v01_b.jpg",
-        "full_price": 7010,
-        "discount_price": 5490,
-        "discount": 21
-    },
-    {
-        "title": "Смартфон Xiaomi Poco C40 3/32Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-c40-32gb-3gb-chernyi-3g-4g-2sim-7-ips-720x1650-an-1823499/",
-        "img_link": "https://cdn.citilink.ru/jQt5eEq-O5l52p1TRHEKGle1E9FtSL8qwZZB9_wP9vc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823499_v01_b.jpg",
-        "full_price": 12780,
-        "discount_price": 6990,
-        "discount": 45
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A52s 8/256Gb,  SM-A528B,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a52-sm-a525f-256gb-8gb-chernyi-3g-4g-2sim-6-5-1782601/",
-        "img_link": "https://cdn.citilink.ru/HuaqEbAJw7drlHi6z2YS8HTMQet0b0CFSRhVMwNr8dY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1782601_v01_b.jpg",
-        "full_price": 32490,
-        "discount_price": 29990,
-        "discount": 7
-    },
-    {
         "title": "Смартфон REALME C25s 4/64Gb,  голубой",
         "link": "https://www.citilink.ru/product/smartfon-realme-c25s-64gb-4gb-sinii-3g-4g-6-5-720x1600-and11-48mpix-80-1628175/",
         "img_link": "https://cdn.citilink.ru/1DQaE8TsNwNvFzDdVYI8mz5Y7xDAqr-jVFzoTldZfh8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1628175_v01_b.jpg",
-        "full_price": 12510,
+        "full_price": 12700,
         "discount_price": 8990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 9A 2/32Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-9a-32gb-zelenyi-1402198/",
-        "img_link": "https://cdn.citilink.ru/NTS6Fn24VqRlMAB_w5kenhB0FRohdWxeSbtX0OSSjTQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402198_v01_b.jpg",
-        "full_price": 7510,
-        "discount_price": 5490,
-        "discount": 26
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 9A 2/32Gb,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-9a-32gb-sinii-1402188/",
-        "img_link": "https://cdn.citilink.ru/1zh7jDd6AFKkvb501sjiYmBd7MVCDddaY02asY3H2jU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402188_v01_b.jpg",
-        "full_price": 7140,
-        "discount_price": 5490,
-        "discount": 23
-    },
-    {
-        "title": "Смартфон REALME C30 2/32Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c30-rmx3581-32gb-2gb-zelenyi-3g-4g-6-5-720x1600-and10-1783093/",
-        "img_link": "https://cdn.citilink.ru/VfjSxsYL-PYeSaz_J3-6uo7Ua3bCu7hOc6AXJzIFsSY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783093_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 4990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон Xiaomi Poco C40 3/32Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-c40-32gb-3gb-zelenyi-3g-4g-6-71-1080x2400-and11-4-1811837/",
-        "img_link": "https://cdn.citilink.ru/Ra3K8M-IXi-3hamXYxqqEYVQh8jRly0bfdBLZ6ikcOg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1811837_v01_b.jpg",
-        "full_price": 12780,
-        "discount_price": 6990,
-        "discount": 45
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A52s 8/256Gb,  SM-A528B,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a52-sm-a525f-256gb-8gb-belyi-3g-4g-2sim-6-5-su-1784699/",
-        "img_link": "https://cdn.citilink.ru/SWMqfSCymhirDj_FDRYeDVnbKy64DOOlUSB1C3tgmd4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784699_v01_b.jpg",
-        "full_price": 32490,
-        "discount_price": 29990,
-        "discount": 7
-    },
-    {
-        "title": "Смартфон REALME C30 2/32Gb,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c30-rmx3581-32gb-2gb-goluboi-3g-4g-6-5-720x1600-and10-1783092/",
-        "img_link": "https://cdn.citilink.ru/eLPkqXglPKsYmMgfWfDB8hwR3gu0cUZvyOtxioe0IRQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783092_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 4990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон REALME 9 6/128Gb,  RMX3521,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c9-rmx3521-128gb-6gb-belyi-3g-4g-2sim-6-4-super-amoled-1783106/",
-        "img_link": "https://cdn.citilink.ru/I7URfQa42nNANxou4nKpRujDb7ZTDEpGacp_npnb9gg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783106_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 18990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/64Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-64gb-4gb-chernyi-3g-4g-6-58-1080x2400-and12-64-1859682/",
-        "img_link": "https://cdn.citilink.ru/fh-Tk1y0FmFYDQuILazol7JRjCu5zF4exeY07Ycz2B0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859682_v01_b.jpg",
-        "full_price": 15590,
-        "discount_price": 12990,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-chernyi-3g-4g-2sim-6-82-1808570/",
-        "img_link": "https://cdn.citilink.ru/LfnURaRpA0ejK0cyF268v6vZ0VJDaowIq23R0eN25yk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808570_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 5990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/64Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-64gb-4gb-zelenyi-3g-4g-6-58-1080x2400-and12-64-1859683/",
-        "img_link": "https://cdn.citilink.ru/CjvkJ0h0HC9DfvnVO4_-0JSZgRNBMZ_RzAQM0NhbwWM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859683_v01_b.jpg",
-        "full_price": 15570,
-        "discount_price": 12990,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/128Gb,  10035208,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-128gb-8gb-seryi-3g-4g-2sim-6-7-amo-1848123/",
-        "img_link": "https://cdn.citilink.ru/66b5Qi7QNIdWaL5-NU4hZ_3Y81sCt0QsUIZCZaB7QiI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1848123_v01_b.jpg",
-        "full_price": 17380,
-        "discount_price": 12990,
-        "discount": 25
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  фиолетовый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-fioletovyi-3g-4g-2sim-6-1812762/",
-        "img_link": "https://cdn.citilink.ru/-mb8xp99UZtfa7UUadQxBcZkLBsSeEPrHxOYDt-Kk54/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1812762_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 5990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 3/32Gb,  SM-A035F,  красный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-sm-a035f-32gb-3gb-krasnyi-3g-4g-6-5-720x16-1784692/",
-        "img_link": "https://cdn.citilink.ru/3usuuWZsSerpVB0itT5u8ls36fVyr_X0T4_p6FFAlXs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784692_v01_b.jpg",
-        "full_price": 7690,
-        "discount_price": 6990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-chernyi-3g-4g-2sim-6-6-ips-720-1768873/",
-        "img_link": "https://cdn.citilink.ru/GORM-1Pz3qrhN5ycL2hmdo16PSm3BrH8pU0IAcd1xO8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768873_v01_b.jpg",
-        "full_price": 7370,
-        "discount_price": 4990,
-        "discount": 32
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-4gb-zelenyi-3g-4g-6-58-1080x2400-and12-6-1859374/",
-        "img_link": "https://cdn.citilink.ru/aVAer6_eK-fjdtzn-o_j3jBdBbtim_1eUXVcmMpnpvA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859374_v01_b.jpg",
-        "full_price": 17590,
-        "discount_price": 14990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон TECNO Camon 19 6/128Gb,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-128gb-6gb-belyi-3g-4g-2sim-6-8-ips-1080x2460-a-1800335/",
-        "img_link": "https://cdn.citilink.ru/4mklzNbC-WY__VdYORKkNdyIxjJlzxsj722i10VhZ5c/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800335_v01_b.jpg",
-        "full_price": 14690,
-        "discount_price": 11990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон REALME 9 6/128Gb,  RMX3521,  золотистый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c9-rmx3521-128gb-6gb-oranzhevyi-3g-4g-2sim-6-4-super-a-1783108/",
-        "img_link": "https://cdn.citilink.ru/4oihzhYUjTQJzaO76SJwhAoiVX7k_lTBkVJWBIfhXjs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783108_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 18990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  светло-зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-zelenyi-3g-4g-2sim-1809724/",
-        "img_link": "https://cdn.citilink.ru/mpVGPTIXryR9bDXSmXeUFGPnL3iqht-P30D7JM9QfiA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1809724_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-chernyi-3g-4g-6-82-and10-1744234/",
-        "img_link": "https://cdn.citilink.ru/jbEl7u5_Go_BqZ0S6gw26xt4isPW63qdUqAyrlMxJ28/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744234_v01_b.jpg",
-        "full_price": 9990,
-        "discount_price": 8490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Pro 8/128Gb,  X668C,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-pro-x668c-128gb-8gb-belyi-3g-4g-2sim-6-66-tft-1808554/",
-        "img_link": "https://cdn.citilink.ru/5SdwmnxHeVi0cmZ9KmKIbJXYnrWdCOPMr9IEzSLOT-g/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808554_v01_b.jpg",
-        "full_price": 15590,
-        "discount_price": 9990,
-        "discount": 35
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/256Gb,  X676C,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-256gb-8gb-seryi-3g-4g-6-7-1080x246-1875606/",
-        "img_link": "https://cdn.citilink.ru/rq2jFPPfujJbBDEHlvaCdljOn9y2hkPRzUIentvpYHM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875606_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 13790,
-        "discount": 40
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/64Gb,  желтый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-64gb-4gb-zheltyi-3g-4g-6-58-1080x2400-and12-64-1859684/",
-        "img_link": "https://cdn.citilink.ru/E1cosxChA-OXrx2FswNCoxhyV2ePRJT7QE599wm0QjM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859684_v01_b.jpg",
-        "full_price": 15540,
-        "discount_price": 12990,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20 6/128Gb,  X6826B,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20-x6826b-128gb-6gb-chernyi-3g-4g-2sim-6-82-ips-7-1855442/",
-        "img_link": "https://cdn.citilink.ru/X_7qRQ8GO8rz09xu0v_miWIcxVmwWlTH1DhrAISyr6M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855442_v01_b.jpg",
-        "full_price": 14700,
-        "discount_price": 10490,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-chernyi-3g-4g-2sim-1855531/",
-        "img_link": "https://cdn.citilink.ru/R7L0MNFx05Iw4KZlJ2lrC8OL1qpy8-8Pyd1X7Ks_B_4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855531_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-goluboi-3g-4g-2sim-6-6-ips-720-1768893/",
-        "img_link": "https://cdn.citilink.ru/aIO5vvYZ7AMxR1yYsAMW-wl2R9qenN6pOcsR5BgLUDw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768893_v01_b.jpg",
-        "full_price": 7370,
-        "discount_price": 4990,
-        "discount": 32
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zelenyi-3g-4g-2sim-6-6-ips-720-1855412/",
-        "img_link": "https://cdn.citilink.ru/q44B9hnllWhErHFiEt4GApPJLUQaIvTuNBCazPWPEIY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855412_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A32 4/128Gb,  SM-A325F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a32-sm-a325f-128gb-4gb-chernyi-3g-4g-2sim-6-4-1789213/",
-        "img_link": "https://cdn.citilink.ru/D5UgpuFzN__g7rvrR-3ltpvAa6U31hKG3SvjiS-pfZE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1789213_v01_b.jpg",
-        "full_price": 25590,
-        "discount_price": 21490,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 3/32Gb,  SM-A035F,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-sm-a035f-32gb-3gb-sinii-3g-4g-6-5-720x1600-1784691/",
-        "img_link": "https://cdn.citilink.ru/O6MoOV7imtFBFywHiul8tT8nJXHVd6xGziz8zW-DB3M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784691_v01_b.jpg",
-        "full_price": 7690,
-        "discount_price": 6990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Pro 8/128Gb,  X668C,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-pro-x668c-128gb-8gb-sinii-3g-4g-2sim-6-6-tft-7-1859764/",
-        "img_link": "https://cdn.citilink.ru/gxaOraHVkRIJrYYFphpX7MJQRk1y5GGfDqEY2kXdvYM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859764_v01_b.jpg",
-        "full_price": 15190,
-        "discount_price": 9990,
-        "discount": 34
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi A1+ 2/32 GB,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-a1-32gb-2gb-zelenyi-3g-4g-5-45-720x1440-and8-1-1-1864080/",
-        "img_link": "https://cdn.citilink.ru/_GXJTZ9YvGOuAbmGyRdtgeIMdoAaZjouFbr5gJTjVBU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1864080_v01_b.jpg",
-        "full_price": 6970,
-        "discount_price": 4990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-sinii-3g-4g-2sim-6-82-tf-1808574/",
-        "img_link": "https://cdn.citilink.ru/LabJDEWFLWsRcE2QTlN9NEhIfJk-1Ys5Y-9j8r-510U/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808574_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 5990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон TECNO Camon 19 6/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-128gb-6gb-zelenyi-3g-4g-2sim-6-8-ips-1080x2460-1829248/",
-        "img_link": "https://cdn.citilink.ru/R1kCkFrO_1aou-cpcb0X4zpVnL0oR7OlnvHFgUXRK0M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1829248_v01_b.jpg",
-        "full_price": 14690,
-        "discount_price": 11990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  бирюзовый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-biryuzovyi-3g-4g-2sim-6-6-tft-1649481/",
-        "img_link": "https://cdn.citilink.ru/ZJAXpSBPz0OIs90Ji-p2kLjR3EeUc9_iG73AvryczN8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649481_v01_b.jpg",
-        "full_price": 5990,
-        "discount_price": 5490,
-        "discount": 8
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 10C 4/64Gb,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10c-64gb-4gb-sinii-3g-4g-6-71-720x1600-and10-13m-1733242/",
-        "img_link": "https://cdn.citilink.ru/qRNgNPLisSzfIfJdRhyQ0XPG0zNvppN4thJFCmnQXCI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1733242_v01_b.jpg",
-        "full_price": 16040,
-        "discount_price": 10990,
-        "discount": 31
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-sinii-3g-4g-2sim-6-6-ips-720x1-1851685/",
-        "img_link": "https://cdn.citilink.ru/em8drVk5riQNLDKAa_6LpbKQGzS13hvpOqKwTGiYVgM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851685_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zelenyi-3g-4g-6-82-and10-1744229/",
-        "img_link": "https://cdn.citilink.ru/h-NCngM0uYimPkv-UbK0rRIdt_EbjwmpwjQnMvnGKek/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744229_v01_b.jpg",
-        "full_price": 9990,
-        "discount_price": 8490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон REALME 9 5G 4/64Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-realme-9-5g-64gb-4gb-chernyi-3g-4g-2sim-6-6-super-clear-lcd-1-1851164/",
-        "img_link": "https://cdn.citilink.ru/HCMpQrjKwSiqUeRo5PoSnHljP_v3F42reHH4UWpqA6M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851164_v01_b.jpg",
-        "full_price": 16990,
-        "discount_price": 14490,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 6/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-6gb-zelenyi-chernyi-3g-4g-2sim-6-58-ips-1901542/",
-        "img_link": "https://cdn.citilink.ru/NhS5eD6EdHDtZW-En03iaGf_Y5SNfoKGFIdnDzUeRSY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901542_v01_b.jpg",
-        "full_price": 21710,
-        "discount_price": 16490,
-        "discount": 24
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  золотой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zolotistyi-3g-4g-6-6-720x1612-1875591/",
-        "img_link": "https://cdn.citilink.ru/omrLadu5A5YRjugagJg0xbRQys-Mz2hU15-FyoWahl4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875591_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-chernyi-3g-4g-2sim-6-6-tft-720-1649477/",
-        "img_link": "https://cdn.citilink.ru/80SF_BMeHOmHM-h-Qr3Gd-fpriQt8wlL_pqy8Sck_NU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649477_v01_b.jpg",
-        "full_price": 5990,
-        "discount_price": 5490,
-        "discount": 8
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20S 8/128Gb,  X6827,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20s-x6827-128gb-8gb-chernyi-3g-4g-6-78-1080x2460-1863526/",
-        "img_link": "https://cdn.citilink.ru/1HpbDh4h3PlqkmtIaWHkhmoFbm_eGvGLeFVqw_exQjU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1863526_v01_b.jpg",
-        "full_price": 19940,
-        "discount_price": 11990,
-        "discount": 39
-    },
-    {
-        "title": "Смартфон Huawei Mate 50 8/256Gb,  серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-huawei-mate50-256gb-8gb-serebristyi-3g-4g-2sim-6-7-1224x2700-1892198/",
-        "img_link": "https://cdn.citilink.ru/Vc05-7oymypQ-wXgJ8qn8_TiMjrse_5ciXmMJSPP5jw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1892198_v01_b.jpg",
-        "full_price": 56990,
-        "discount_price": 49990,
-        "discount": 12
-    },
-    {
-        "title": "Смартфон TECNO Camon 19 6/128Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-128gb-6gb-chernyi-3g-4g-2sim-6-8-ips-1080x2460-1800332/",
-        "img_link": "https://cdn.citilink.ru/PVNbdLVI2lcvRi9P3LbwmsMiMgMHlCnLWMRcI6SYmEU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800332_v01_b.jpg",
-        "full_price": 14690,
-        "discount_price": 11990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон REALME C25s 4/64Gb,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c25s-64gb-4gb-seryi-3g-4g-6-5-720x1600-and11-48mpix-80-1628173/",
-        "img_link": "https://cdn.citilink.ru/RxrTWTml02uATYPnkQ2ZiA7MM0gijFSQPCej3ym7x9Q/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1628173_v01_b.jpg",
-        "full_price": 10990,
-        "discount_price": 8990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 9A 2/32Gb,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-9a-32gb-seryi-1402120/",
-        "img_link": "https://cdn.citilink.ru/3-o2cIp81MxF-2BjuEj83hQDRThZ5UroHij8RAhJIOQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402120_v01_b.jpg",
-        "full_price": 7010,
-        "discount_price": 5490,
-        "discount": 21
-    },
-    {
-        "title": "Смартфон Xiaomi Poco C40 3/32Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-c40-32gb-3gb-chernyi-3g-4g-2sim-7-ips-720x1650-an-1823499/",
-        "img_link": "https://cdn.citilink.ru/jQt5eEq-O5l52p1TRHEKGle1E9FtSL8qwZZB9_wP9vc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823499_v01_b.jpg",
-        "full_price": 12780,
-        "discount_price": 6990,
-        "discount": 45
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A52s 8/256Gb,  SM-A528B,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a52-sm-a525f-256gb-8gb-chernyi-3g-4g-2sim-6-5-1782601/",
-        "img_link": "https://cdn.citilink.ru/HuaqEbAJw7drlHi6z2YS8HTMQet0b0CFSRhVMwNr8dY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1782601_v01_b.jpg",
-        "full_price": 32490,
-        "discount_price": 29990,
-        "discount": 7
-    },
-    {
-        "title": "Смартфон REALME C25s 4/64Gb,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c25s-64gb-4gb-sinii-3g-4g-6-5-720x1600-and11-48mpix-80-1628175/",
-        "img_link": "https://cdn.citilink.ru/1DQaE8TsNwNvFzDdVYI8mz5Y7xDAqr-jVFzoTldZfh8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1628175_v01_b.jpg",
-        "full_price": 12510,
-        "discount_price": 8990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 9A 2/32Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-9a-32gb-zelenyi-1402198/",
-        "img_link": "https://cdn.citilink.ru/NTS6Fn24VqRlMAB_w5kenhB0FRohdWxeSbtX0OSSjTQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402198_v01_b.jpg",
-        "full_price": 7510,
-        "discount_price": 5490,
-        "discount": 26
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 9A 2/32Gb,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-9a-32gb-sinii-1402188/",
-        "img_link": "https://cdn.citilink.ru/1zh7jDd6AFKkvb501sjiYmBd7MVCDddaY02asY3H2jU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1402188_v01_b.jpg",
-        "full_price": 7140,
-        "discount_price": 5490,
-        "discount": 23
-    },
-    {
-        "title": "Смартфон REALME C30 2/32Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c30-rmx3581-32gb-2gb-zelenyi-3g-4g-6-5-720x1600-and10-1783093/",
-        "img_link": "https://cdn.citilink.ru/VfjSxsYL-PYeSaz_J3-6uo7Ua3bCu7hOc6AXJzIFsSY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783093_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 4990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон Xiaomi Poco C40 3/32Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-c40-32gb-3gb-zelenyi-3g-4g-6-71-1080x2400-and11-4-1811837/",
-        "img_link": "https://cdn.citilink.ru/Ra3K8M-IXi-3hamXYxqqEYVQh8jRly0bfdBLZ6ikcOg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1811837_v01_b.jpg",
-        "full_price": 12780,
-        "discount_price": 6990,
-        "discount": 45
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A52s 8/256Gb,  SM-A528B,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a52-sm-a525f-256gb-8gb-belyi-3g-4g-2sim-6-5-su-1784699/",
-        "img_link": "https://cdn.citilink.ru/SWMqfSCymhirDj_FDRYeDVnbKy64DOOlUSB1C3tgmd4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784699_v01_b.jpg",
-        "full_price": 32490,
-        "discount_price": 29990,
-        "discount": 7
-    },
-    {
-        "title": "Смартфон REALME C30 2/32Gb,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c30-rmx3581-32gb-2gb-goluboi-3g-4g-6-5-720x1600-and10-1783092/",
-        "img_link": "https://cdn.citilink.ru/eLPkqXglPKsYmMgfWfDB8hwR3gu0cUZvyOtxioe0IRQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783092_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 4990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон REALME 9 6/128Gb,  RMX3521,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c9-rmx3521-128gb-6gb-belyi-3g-4g-2sim-6-4-super-amoled-1783106/",
-        "img_link": "https://cdn.citilink.ru/I7URfQa42nNANxou4nKpRujDb7ZTDEpGacp_npnb9gg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783106_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 18990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/64Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-64gb-4gb-chernyi-3g-4g-6-58-1080x2400-and12-64-1859682/",
-        "img_link": "https://cdn.citilink.ru/fh-Tk1y0FmFYDQuILazol7JRjCu5zF4exeY07Ycz2B0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859682_v01_b.jpg",
-        "full_price": 15590,
-        "discount_price": 12990,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-chernyi-3g-4g-2sim-6-82-1808570/",
-        "img_link": "https://cdn.citilink.ru/LfnURaRpA0ejK0cyF268v6vZ0VJDaowIq23R0eN25yk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808570_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 5990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/64Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-64gb-4gb-zelenyi-3g-4g-6-58-1080x2400-and12-64-1859683/",
-        "img_link": "https://cdn.citilink.ru/CjvkJ0h0HC9DfvnVO4_-0JSZgRNBMZ_RzAQM0NhbwWM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859683_v01_b.jpg",
-        "full_price": 15570,
-        "discount_price": 12990,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/128Gb,  10035208,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-128gb-8gb-seryi-3g-4g-2sim-6-7-amo-1848123/",
-        "img_link": "https://cdn.citilink.ru/66b5Qi7QNIdWaL5-NU4hZ_3Y81sCt0QsUIZCZaB7QiI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1848123_v01_b.jpg",
-        "full_price": 17380,
-        "discount_price": 12990,
-        "discount": 25
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  фиолетовый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-fioletovyi-3g-4g-2sim-6-1812762/",
-        "img_link": "https://cdn.citilink.ru/-mb8xp99UZtfa7UUadQxBcZkLBsSeEPrHxOYDt-Kk54/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1812762_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 5990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 3/32Gb,  SM-A035F,  красный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-sm-a035f-32gb-3gb-krasnyi-3g-4g-6-5-720x16-1784692/",
-        "img_link": "https://cdn.citilink.ru/3usuuWZsSerpVB0itT5u8ls36fVyr_X0T4_p6FFAlXs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784692_v01_b.jpg",
-        "full_price": 7690,
-        "discount_price": 6990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-chernyi-3g-4g-2sim-6-6-ips-720-1768873/",
-        "img_link": "https://cdn.citilink.ru/GORM-1Pz3qrhN5ycL2hmdo16PSm3BrH8pU0IAcd1xO8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768873_v01_b.jpg",
-        "full_price": 7370,
-        "discount_price": 4990,
-        "discount": 32
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-4gb-zelenyi-3g-4g-6-58-1080x2400-and12-6-1859374/",
-        "img_link": "https://cdn.citilink.ru/aVAer6_eK-fjdtzn-o_j3jBdBbtim_1eUXVcmMpnpvA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859374_v01_b.jpg",
-        "full_price": 17590,
-        "discount_price": 14990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон TECNO Camon 19 6/128Gb,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-128gb-6gb-belyi-3g-4g-2sim-6-8-ips-1080x2460-a-1800335/",
-        "img_link": "https://cdn.citilink.ru/4mklzNbC-WY__VdYORKkNdyIxjJlzxsj722i10VhZ5c/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800335_v01_b.jpg",
-        "full_price": 14690,
-        "discount_price": 11990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон REALME 9 6/128Gb,  RMX3521,  золотистый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c9-rmx3521-128gb-6gb-oranzhevyi-3g-4g-2sim-6-4-super-a-1783108/",
-        "img_link": "https://cdn.citilink.ru/4oihzhYUjTQJzaO76SJwhAoiVX7k_lTBkVJWBIfhXjs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1783108_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 18990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  светло-зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-zelenyi-3g-4g-2sim-1809724/",
-        "img_link": "https://cdn.citilink.ru/mpVGPTIXryR9bDXSmXeUFGPnL3iqht-P30D7JM9QfiA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1809724_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-chernyi-3g-4g-6-82-and10-1744234/",
-        "img_link": "https://cdn.citilink.ru/jbEl7u5_Go_BqZ0S6gw26xt4isPW63qdUqAyrlMxJ28/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744234_v01_b.jpg",
-        "full_price": 9990,
-        "discount_price": 8490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Pro 8/128Gb,  X668C,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-pro-x668c-128gb-8gb-belyi-3g-4g-2sim-6-66-tft-1808554/",
-        "img_link": "https://cdn.citilink.ru/5SdwmnxHeVi0cmZ9KmKIbJXYnrWdCOPMr9IEzSLOT-g/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808554_v01_b.jpg",
-        "full_price": 15590,
-        "discount_price": 9990,
-        "discount": 35
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/256Gb,  X676C,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-256gb-8gb-seryi-3g-4g-6-7-1080x246-1875606/",
-        "img_link": "https://cdn.citilink.ru/rq2jFPPfujJbBDEHlvaCdljOn9y2hkPRzUIentvpYHM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875606_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 13790,
-        "discount": 40
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/64Gb,  желтый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-64gb-4gb-zheltyi-3g-4g-6-58-1080x2400-and12-64-1859684/",
-        "img_link": "https://cdn.citilink.ru/E1cosxChA-OXrx2FswNCoxhyV2ePRJT7QE599wm0QjM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859684_v01_b.jpg",
-        "full_price": 15540,
-        "discount_price": 12990,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20 6/128Gb,  X6826B,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20-x6826b-128gb-6gb-chernyi-3g-4g-2sim-6-82-ips-7-1855442/",
-        "img_link": "https://cdn.citilink.ru/X_7qRQ8GO8rz09xu0v_miWIcxVmwWlTH1DhrAISyr6M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855442_v01_b.jpg",
-        "full_price": 14700,
-        "discount_price": 10490,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-chernyi-3g-4g-2sim-1855531/",
-        "img_link": "https://cdn.citilink.ru/R7L0MNFx05Iw4KZlJ2lrC8OL1qpy8-8Pyd1X7Ks_B_4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855531_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-goluboi-3g-4g-2sim-6-6-ips-720-1768893/",
-        "img_link": "https://cdn.citilink.ru/aIO5vvYZ7AMxR1yYsAMW-wl2R9qenN6pOcsR5BgLUDw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768893_v01_b.jpg",
-        "full_price": 7370,
-        "discount_price": 4990,
-        "discount": 32
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zelenyi-3g-4g-2sim-6-6-ips-720-1855412/",
-        "img_link": "https://cdn.citilink.ru/q44B9hnllWhErHFiEt4GApPJLUQaIvTuNBCazPWPEIY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855412_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A32 4/128Gb,  SM-A325F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a32-sm-a325f-128gb-4gb-chernyi-3g-4g-2sim-6-4-1789213/",
-        "img_link": "https://cdn.citilink.ru/D5UgpuFzN__g7rvrR-3ltpvAa6U31hKG3SvjiS-pfZE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1789213_v01_b.jpg",
-        "full_price": 25590,
-        "discount_price": 21490,
-        "discount": 16
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 3/32Gb,  SM-A035F,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-sm-a035f-32gb-3gb-sinii-3g-4g-6-5-720x1600-1784691/",
-        "img_link": "https://cdn.citilink.ru/O6MoOV7imtFBFywHiul8tT8nJXHVd6xGziz8zW-DB3M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784691_v01_b.jpg",
-        "full_price": 7690,
-        "discount_price": 6990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Pro 8/128Gb,  X668C,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-pro-x668c-128gb-8gb-sinii-3g-4g-2sim-6-6-tft-7-1859764/",
-        "img_link": "https://cdn.citilink.ru/gxaOraHVkRIJrYYFphpX7MJQRk1y5GGfDqEY2kXdvYM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859764_v01_b.jpg",
-        "full_price": 15190,
-        "discount_price": 9990,
-        "discount": 34
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi A1+ 2/32 GB,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-a1-32gb-2gb-zelenyi-3g-4g-5-45-720x1440-and8-1-1-1864080/",
-        "img_link": "https://cdn.citilink.ru/_GXJTZ9YvGOuAbmGyRdtgeIMdoAaZjouFbr5gJTjVBU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1864080_v01_b.jpg",
-        "full_price": 6970,
-        "discount_price": 4990,
-        "discount": 28
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-sinii-3g-4g-2sim-6-82-tf-1808574/",
-        "img_link": "https://cdn.citilink.ru/LabJDEWFLWsRcE2QTlN9NEhIfJk-1Ys5Y-9j8r-510U/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808574_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 5990,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон TECNO Camon 19 6/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-128gb-6gb-zelenyi-3g-4g-2sim-6-8-ips-1080x2460-1829248/",
-        "img_link": "https://cdn.citilink.ru/R1kCkFrO_1aou-cpcb0X4zpVnL0oR7OlnvHFgUXRK0M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1829248_v01_b.jpg",
-        "full_price": 14690,
-        "discount_price": 11990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  бирюзовый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-biryuzovyi-3g-4g-2sim-6-6-tft-1649481/",
-        "img_link": "https://cdn.citilink.ru/ZJAXpSBPz0OIs90Ji-p2kLjR3EeUc9_iG73AvryczN8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649481_v01_b.jpg",
-        "full_price": 5990,
-        "discount_price": 5490,
-        "discount": 8
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 10C 4/64Gb,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10c-64gb-4gb-sinii-3g-4g-6-71-720x1600-and10-13m-1733242/",
-        "img_link": "https://cdn.citilink.ru/qRNgNPLisSzfIfJdRhyQ0XPG0zNvppN4thJFCmnQXCI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1733242_v01_b.jpg",
-        "full_price": 16040,
-        "discount_price": 10990,
-        "discount": 31
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-sinii-3g-4g-2sim-6-6-ips-720x1-1851685/",
-        "img_link": "https://cdn.citilink.ru/em8drVk5riQNLDKAa_6LpbKQGzS13hvpOqKwTGiYVgM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851685_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zelenyi-3g-4g-6-82-and10-1744229/",
-        "img_link": "https://cdn.citilink.ru/h-NCngM0uYimPkv-UbK0rRIdt_EbjwmpwjQnMvnGKek/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744229_v01_b.jpg",
-        "full_price": 9990,
-        "discount_price": 8490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон REALME 9 5G 4/64Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-realme-9-5g-64gb-4gb-chernyi-3g-4g-2sim-6-6-super-clear-lcd-1-1851164/",
-        "img_link": "https://cdn.citilink.ru/HCMpQrjKwSiqUeRo5PoSnHljP_v3F42reHH4UWpqA6M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851164_v01_b.jpg",
-        "full_price": 16990,
-        "discount_price": 14490,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 6/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-6gb-zelenyi-chernyi-3g-4g-2sim-6-58-ips-1901542/",
-        "img_link": "https://cdn.citilink.ru/NhS5eD6EdHDtZW-En03iaGf_Y5SNfoKGFIdnDzUeRSY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901542_v01_b.jpg",
-        "full_price": 21710,
-        "discount_price": 16490,
-        "discount": 24
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  золотой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zolotistyi-3g-4g-6-6-720x1612-1875591/",
-        "img_link": "https://cdn.citilink.ru/omrLadu5A5YRjugagJg0xbRQys-Mz2hU15-FyoWahl4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875591_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-chernyi-3g-4g-2sim-6-6-tft-720-1649477/",
-        "img_link": "https://cdn.citilink.ru/80SF_BMeHOmHM-h-Qr3Gd-fpriQt8wlL_pqy8Sck_NU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649477_v01_b.jpg",
-        "full_price": 5990,
-        "discount_price": 5490,
-        "discount": 8
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20S 8/128Gb,  X6827,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20s-x6827-128gb-8gb-chernyi-3g-4g-6-78-1080x2460-1863526/",
-        "img_link": "https://cdn.citilink.ru/1HpbDh4h3PlqkmtIaWHkhmoFbm_eGvGLeFVqw_exQjU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1863526_v01_b.jpg",
-        "full_price": 19940,
-        "discount_price": 11990,
-        "discount": 39
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-zelenyi-3g-4g-2sim-6-6-ips-720-1768864/",
-        "img_link": "https://cdn.citilink.ru/i3w4JhT_ofMoOw9PKbEjKj0xyZmU2xmzzcV1snNFYDk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768864_v01_b.jpg",
-        "full_price": 5990,
-        "discount_price": 5490,
-        "discount": 8
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/256Gb,  X676C,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-256gb-8gb-belyi-3g-4g-6-7-1080x246-1875610/",
-        "img_link": "https://cdn.citilink.ru/jIe9_gs4Yas_qPWtaaEfaSzWzKjvx8au00vaxyDViW0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875610_v01_b.jpg",
-        "full_price": 22990,
-        "discount_price": 13790,
-        "discount": 40
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 10 2022 4/64Gb,  серый карбон",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10-2022-64gb-4gb-seryi-3g-4g-6-55-720x1600-and11-1791866/",
-        "img_link": "https://cdn.citilink.ru/LMaKy0JZdOH1qEC0BzUOHpY7sQj2kRnrXHqV8cU3H4Q/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1791866_v01_b.jpg",
-        "full_price": 14680,
-        "discount_price": 12990,
-        "discount": 11
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-nfc-64gb-4gb-sinii-3g-4g-6-82-720x-1835080/",
-        "img_link": "https://cdn.citilink.ru/sTwyMAn-usfdy4CYajsNunXA0msfkmI3LpkPwVPghK0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1835080_v01_b.jpg",
-        "full_price": 9990,
-        "discount_price": 8490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A02 32Gb,  SM-A022,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a02-sm-a022-32gb-2gb-chernyi-3g-4g-2sim-6-5-lc-1851376/",
-        "img_link": "https://cdn.citilink.ru/du8WrP60EyLaKtOEBs-saiYdWMCSRlttX8v6ml4oXw8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851376_v01_b.jpg",
-        "full_price": 7490,
-        "discount_price": 6990,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 10C 4/64Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10c-64gb-4gb-zelenyi-3g-4g-6-71-720x1600-and10-1-1733243/",
-        "img_link": "https://cdn.citilink.ru/LN0cg-2AT-_WjZfnIfbljaHxyBGzuexTjcG7HOXygW0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1733243_v01_b.jpg",
-        "full_price": 16070,
-        "discount_price": 10990,
-        "discount": 31
-    },
-    {
-        "title": "Смартфон Xiaomi Poco C40 4/64Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-c40-64gb-4gb-chernyi-3g-4g-2sim-7-ips-720x1650-an-1823504/",
-        "img_link": "https://cdn.citilink.ru/20AlScXO6X5SLTbswmoQrq70kIr7glzPcQg6uQxRjZw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1823504_v01_b.jpg",
-        "full_price": 13860,
-        "discount_price": 8990,
-        "discount": 35
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/128Gb,  X676C,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-128gb-8gb-sinii-3g-4g-2sim-6-7-amo-1851623/",
-        "img_link": "https://cdn.citilink.ru/148j9zcZsL3bcB-B_uyaqAKcKs4j8rudscMjqJstSFQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851623_v01_b.jpg",
-        "full_price": 17250,
-        "discount_price": 12990,
-        "discount": 24
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 Pro 8/256Gb,  X676B,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-pro-x676b-256gb-8gb-belyi-3g-4g-2sim-6-7-amol-1848106/",
-        "img_link": "https://cdn.citilink.ru/PRItr2PKMx1pAxBpXDE0d54XhrEqkD0R-Kqy48H7u0o/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1848106_v01_b.jpg",
-        "full_price": 18990,
-        "discount_price": 14290,
-        "discount": 24
-    },
-    {
-        "title": "Смартфон REALME C55 8/256Gb,  RMX3710,  перламутровый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c55-rmx3710-256gb-8gb-perlamutrovyi-3g-4g-6-72-1080x24-1918401/",
-        "img_link": "https://cdn.citilink.ru/6Pg88LgcwsPr-qXzVcf2VxdpGpdYVLVofvu-JA9sKG4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1918401_v01_b.jpg",
-        "full_price": 19990,
-        "discount_price": 17990,
-        "discount": 10
-    },
-    {
-        "title": "Смартфон Huawei Mate 50 8/256Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-huawei-mate50-256gb-8gb-chernyi-3g-4g-2sim-6-7-1224x2700-and1-1892194/",
-        "img_link": "https://cdn.citilink.ru/0Ga0fuWH1lsgDcfiCOi1jawgLy08PHLimWn4oJANhd8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1892194_v01_b.jpg",
-        "full_price": 56990,
-        "discount_price": 49990,
-        "discount": 12
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi A1+ 2/32 GB,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-a1-32gb-2gb-chernyi-3g-4g-5-45-720x1440-and8-1-1-1864079/",
-        "img_link": "https://cdn.citilink.ru/sxGI4v2gw99GS0H1JNrYE4yxeHvwIEjJ3rNMx8YV6pw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1864079_v01_b.jpg",
-        "full_price": 7200,
-        "discount_price": 4990,
-        "discount": 30
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 VIP NFC 8/256Gb,  X672,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-vip-x672-256gb-8gb-seryi-3g-4g-2sim-6-67-amol-1744225/",
-        "img_link": "https://cdn.citilink.ru/rrziZ1x9cQbs4VCze6gfttu5gk2YX1buvYRdwp9yJEY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744225_v01_b.jpg",
-        "full_price": 24990,
-        "discount_price": 21490,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон INFINIX Note 12 2023 8/128Gb,  10035210,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-128gb-8gb-belyi-3g-4g-2sim-6-7-amo-1848128/",
-        "img_link": "https://cdn.citilink.ru/uIyPPndoQZepIDq32javx8j-cOYYWX2eFvPL6CQfbDs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1848128_v01_b.jpg",
-        "full_price": 15990,
-        "discount_price": 12990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон Motorola Edge 30 pro 12/256Gb,  XT2201-1,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-motorola-edge-30-pro-xt2201-1-256gb-12gb-sinii-3g-4g-2sim-6-7-1656552/",
-        "img_link": "https://cdn.citilink.ru/CLYjCxn65f98RzDz49a87aOtcExPeUeOSGTHf-6q84s/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1656552_v01_b.jpg",
-        "full_price": 53990,
-        "discount_price": 47990,
-        "discount": 11
-    },
-    {
-        "title": "Смартфон REALME C55 8/256Gb,  RMX3710,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c55-rmx3710-256gb-8gb-chernyi-3g-4g-6-72-1080x2400-and-1918400/",
-        "img_link": "https://cdn.citilink.ru/JZ4gwboYxuuf9LG5jBWiKYGy9YshKB4glnJxkzJP9HY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1918400_v01_b.jpg",
-        "full_price": 19990,
-        "discount_price": 17990,
-        "discount": 10
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 4/128Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-4gb-chernyi-3g-4g-6-58-1080x2400-and12-6-1859680/",
-        "img_link": "https://cdn.citilink.ru/ScTI0WAuFC-GttIsNLOfclK08uyS9MniM0gJcGmhEes/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859680_v01_b.jpg",
-        "full_price": 17730,
-        "discount_price": 14990,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-chernyi-3g-4g-2sim-6-6-ips-720-1851634/",
-        "img_link": "https://cdn.citilink.ru/rMwQah1pQ6ji5XIyF_ZcZjwpDtRyNgwD5CNOdyo43tM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851634_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7490,
-        "discount": 6
-    },
-    {
-        "title": "Смартфон BQ Aurora 64Gb,  6430L,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-bq-aurora-6430l-64gb-4gb-chernyi-3g-4g-6-4-and10-802-11-b-g-n-1504268/",
-        "img_link": "https://cdn.citilink.ru/Olab__Ki-2fUIDeKSnEVuJAkfSa6BlcWDLkMzh1hwgw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1504268_v01_b.jpg",
-        "full_price": 10790,
-        "discount_price": 9990,
-        "discount": 7
-    },
-    {
-        "title": "Смартфон Honor X7a 4/128Gb,  титановый серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-honor-x7a-128gb-4gb-titanovyi-serebristyi-3g-4g-2sim-6-74-lcd-1911905/",
-        "img_link": "https://cdn.citilink.ru/YHYjrYcbhJ1yhe1xiTnWS5hxxuLN1cYLuLVWll-bx7k/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911905_v01_b.jpg",
-        "full_price": 15720,
-        "discount_price": 12990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  золотистый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zolotistyi-3g-4g-6-82-and-1744235/",
-        "img_link": "https://cdn.citilink.ru/wKXQJ0Oq7zr2Fabj3CWUrdscK-6Z2xj_cIRrh2Zcg5M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744235_v01_b.jpg",
-        "full_price": 9990,
-        "discount_price": 8490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон Xiaomi Poco M5 6/128Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-6gb-chernyi-chernyi-3g-4g-2sim-6-58-ips-1901543/",
-        "img_link": "https://cdn.citilink.ru/7QDCAvUvk7dZs_1hF8H8YJb_8mPntaofaASgKjR3cgU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901543_v01_b.jpg",
-        "full_price": 21740,
-        "discount_price": 16490,
-        "discount": 24
-    },
-    {
-        "title": "Смартфон REALME C30s 4/64Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-realme-c30s-64gb-4gb-chernyi-3g-4g-6-5-720x1600-and12-8mpix-8-1895024/",
-        "img_link": "https://cdn.citilink.ru/z2oiAZjODcTilG2Jlg3fGtxmaPQ68eo-Df5TIw-ZFXk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1895024_v01_b.jpg",
-        "full_price": 8280,
-        "discount_price": 6990,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон Motorola Moto e22 3/32Gb,  XT2239-7,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-motorola-e22-xt2223-6-64gb-4gb-chernyi-3g-4g-6-5-1600x720-and-1892060/",
-        "img_link": "https://cdn.citilink.ru/UIFxllQoQROUjURGIbCFqTLiCuj2qvAx0gBwBPt3DfQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1892060_v01_b.jpg",
-        "full_price": 10900,
-        "discount_price": 8990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20 6/128Gb,  X6826B,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20-x6826b-128gb-6gb-belyi-3g-4g-6-82-720x1640-and-1875589/",
-        "img_link": "https://cdn.citilink.ru/MkmNlMv2dTv-GLFi9YNB6wzo4IBtraRa9eS6xjyf2E4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875589_v01_b.jpg",
-        "full_price": 14790,
-        "discount_price": 10490,
         "discount": 29
     },
     {
-        "title": "Смартфон INFINIX Zero 20 8/256Gb,  X6821,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-zero-20-x6821-256gb-8gb-seryi-3g-4g-2sim-6-66-amoled-1859745/",
-        "img_link": "https://cdn.citilink.ru/4pG78Rn-bUp_6EDEIqqw8Z6msTzZN9IVk5GFq1a_yoI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859745_v01_b.jpg",
-        "full_price": 23470,
-        "discount_price": 18490,
-        "discount": 21
+        "title": "Смартфон TECNO Camon 19 Pro 8/128Gb,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-pro-128gb-8gb-chernyi-3g-4g-2sim-6-78-ips-1080-1800342/",
+        "img_link": "https://cdn.citilink.ru/Crn4i9ZRqpSkNZ8iye-p07W5-VfcwL9dp5b2js54oyw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800342_v01_b.jpg",
+        "full_price": 16990,
+        "discount_price": 15990,
+        "discount": 5
     },
     {
-        "title": "Смартфон Xiaomi Poco F4 GT 8/128Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-f4-gt-128gb-8gb-chernyi-3g-4g-6-67-720x1440-and12-1740218/",
-        "img_link": "https://cdn.citilink.ru/k7yuibYbFqGT2ZJQNj-hW0YeUDzbad7Y-a4ulcgcnLo/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1740218_v01_b.jpg",
-        "full_price": 78610,
-        "discount_price": 6847,
-        "discount": 91
+        "title": "Смартфон TECNO Camon 19 Pro 8/128Gb,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-pro-128gb-8gb-sinii-3g-4g-2sim-6-78-ips-1080x2-1800344/",
+        "img_link": "https://cdn.citilink.ru/_0Onvy7L60o_ZivtZCEluvvDm5_XJ4bNFCYVI1AoHRg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800344_v01_b.jpg",
+        "full_price": 16990,
+        "discount_price": 15990,
+        "discount": 5
     },
     {
-        "title": "Смартфон ZTE Blade A31 Plus 32Gb,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-zte-blade-a31-plus-32gb-1gb-seryi-3g-4g-6-720x1440-andr-go-8m-1625014/",
-        "img_link": "https://cdn.citilink.ru/0TWyAwtKKlE1XtsX28Khz7aVfy3aSwrAngEkeNJRQMI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1625014_v01_b.jpg",
-        "full_price": 5350,
-        "discount_price": 4590,
-        "discount": 14
+        "title": "Смартфон OPPO A96 6/128Gb,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a96-128gb-6gb-chernyi-3g-4g-2sim-6-59-ips-720x1600-and12-1804652/",
+        "img_link": "https://cdn.citilink.ru/sDmIOKfpvid8Adq6g-2MeDZfVz33yz0f-ZTJNb3JVyc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1804652_v01_b.jpg",
+        "full_price": 21380,
+        "discount_price": 16990,
+        "discount": 20
     },
     {
-        "title": "Смартфон Samsung Galaxy S23 Ultra 5G 12/512Gb,  SM-S918B,  черный фантом",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s23-ultra-5g-sm-s918b-512gb-12gb-chernyi-fanto-1914407/",
-        "img_link": "https://cdn.citilink.ru/y0JPcteWuuG21SULRd_9RE33Qrk5f75ip6UBw10C8Ms/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914407_v01_b.jpg",
-        "full_price": 142720,
-        "discount_price": 120490,
-        "discount": 15
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A54 5G 6/128Gb,  SM-A546E,  графит",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a54-sm-a546e-128gb-6gb-chernyi-grafit-3g-4g-6-1911839/",
-        "img_link": "https://cdn.citilink.ru/RgyE1qUxojKf2EqfmyoOa07sEBbDXUY1_AD4KCWeiFc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911839_v01_b.jpg",
-        "full_price": 43140,
-        "discount_price": 37490,
-        "discount": 13
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A34 5G 8/256Gb,  SM-A346E,  зеленый лайм",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-256gb-8gb-zelenyi-laim-3g-4g-6-6-1911842/",
-        "img_link": "https://cdn.citilink.ru/YghBWeBwTM9FiaXOgEe9RY7KkaF7o-NYtlgvYvXcWRA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911842_v01_b.jpg",
-        "full_price": 42100,
-        "discount_price": 37290,
+        "title": "Смартфон OPPO A17 4/64Gb,  CPH2477,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17-cph2477-64gb-4gb-chernyi-3g-4g-6-56-720x1600-and12-5-1872773/",
+        "img_link": "https://cdn.citilink.ru/USj8TQx6mgqiSDWmHiC6oWZJdIyabpXrZwdxKHbgr4g/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872773_v01_b.jpg",
+        "full_price": 10690,
+        "discount_price": 9490,
         "discount": 11
     },
     {
-        "title": "Смартфон Honor X7a 4/128Gb,  синий океан",
-        "link": "https://www.citilink.ru/product/smartfon-honor-x7a-128gb-4gb-sinii-okean-3g-4g-2sim-6-74-lcd-720x1620-1911904/",
-        "img_link": "https://cdn.citilink.ru/jg6dzzKbjeSOxxA5yHjuTpfHEOyAspg7HXZMvBg1j6Q/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911904_v01_b.jpg",
-        "full_price": 15710,
-        "discount_price": 12990,
-        "discount": 17
+        "title": "Смартфон OPPO A96 6/128Gb,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a96-128gb-6gb-sinii-3g-4g-2sim-6-59-ips-720x1600-and12-5-1804653/",
+        "img_link": "https://cdn.citilink.ru/e5hkhCuTQBa-9bnrgT2aBzS9q8ATarahMjMN9rw_ZF4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1804653_v01_b.jpg",
+        "full_price": 21220,
+        "discount_price": 16990,
+        "discount": 19
     },
     {
-        "title": "Смартфон Honor X7a 4/128Gb,  полуночный черный",
-        "link": "https://www.citilink.ru/product/smartfon-honor-x7a-128gb-4gb-polun-cher-3g-4g-2sim-6-74-lcd-720x1620-a-1911903/",
-        "img_link": "https://cdn.citilink.ru/34NqFr6YJZCyIF7eQgmMYMi5zenAXkGczeMR_c8LOnM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911903_v01_b.jpg",
-        "full_price": 15700,
-        "discount_price": 12990,
-        "discount": 17
+        "title": "Смартфон Huawei nova Y90 4/128Gb,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-huawei-nova-y90-128gb-8gb-zelenyi-3g-4g-6-75-720x1600-and12-4-1809822/",
+        "img_link": "https://cdn.citilink.ru/Fkp8d5mFxXODKQS1EV-Snqmx5YKzDy-vReiEamQ72jw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1809822_v01_b.jpg",
+        "full_price": 16990,
+        "discount_price": 14990,
+        "discount": 11
     },
     {
-        "title": "Смартфон TECNO Phantom X2 8/256Gb,  серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-tecno-phantom-x2-256gb-8gb-serebristyi-3g-4g-6-8-720x1600-and-1911189/",
-        "img_link": "https://cdn.citilink.ru/IPNc8XVewJs-MBvwpiMQwBfkI43JLh4LkhA6AlLgu64/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911189_v01_b.jpg",
-        "full_price": 62990,
-        "discount_price": 41990,
-        "discount": 33
+        "title": "Смартфон OPPO A17 4/64Gb,  CPH2477,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17-cph2477-64gb-4gb-sinii-3g-4g-6-56-720x1600-and12-50m-1872777/",
+        "img_link": "https://cdn.citilink.ru/tx5_MPRa9HjwaUUoXFucnI1eOolUh6wd8kKHbTG4vqI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872777_v01_b.jpg",
+        "full_price": 10690,
+        "discount_price": 9490,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  фиолетовый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-fioletovyi-3g-4g-2sim-6-1812762/",
+        "img_link": "https://cdn.citilink.ru/-mb8xp99UZtfa7UUadQxBcZkLBsSeEPrHxOYDt-Kk54/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1812762_v01_b.jpg",
+        "full_price": 6990,
+        "discount_price": 6490,
+        "discount": 7
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-chernyi-3g-4g-2sim-6-6-ips-720-1768873/",
+        "img_link": "https://cdn.citilink.ru/GORM-1Pz3qrhN5ycL2hmdo16PSm3BrH8pU0IAcd1xO8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768873_v01_b.jpg",
+        "full_price": 5790,
+        "discount_price": 4990,
+        "discount": 13
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-chernyi-3g-4g-2sim-6-82-1808570/",
+        "img_link": "https://cdn.citilink.ru/LfnURaRpA0ejK0cyF268v6vZ0VJDaowIq23R0eN25yk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808570_v01_b.jpg",
+        "full_price": 6990,
+        "discount_price": 6490,
+        "discount": 7
+    },
+    {
+        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zelenyi-3g-4g-2sim-6-6-ips-720-1855412/",
+        "img_link": "https://cdn.citilink.ru/q44B9hnllWhErHFiEt4GApPJLUQaIvTuNBCazPWPEIY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855412_v01_b.jpg",
+        "full_price": 7990,
+        "discount_price": 7490,
+        "discount": 6
+    },
+    {
+        "title": "Смартфон OPPO A17k 3/64Gb,  CPH2471,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17k-cph2477-64gb-3gb-sinii-3g-4g-6-56-720x1600-and12-50-1872778/",
+        "img_link": "https://cdn.citilink.ru/PZlXatBqiou7vNxCyhsTjqx3OtJt3zVyKUXIN7HwESM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872778_v01_b.jpg",
+        "full_price": 8720,
+        "discount_price": 6990,
+        "discount": 19
     },
     {
         "title": "Смартфон Xiaomi Poco M5 4/128Gb,  желтый",
@@ -1048,196 +120,108 @@
         "discount": 14
     },
     {
-        "title": "Смартфон Samsung Galaxy M12 3/32Gb,  SM-M127F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-m12-sm-m127f-32gb-3gb-chernyi-3g-4g-6-5-720x16-1857398/",
-        "img_link": "https://cdn.citilink.ru/pj-0e8NoSTyG1An86QyZzkgGRMo1zlyal7F0nlklrVU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1857398_v01_b.jpg",
-        "full_price": 11490,
-        "discount_price": 8990,
-        "discount": 21
+        "title": "Смартфон Samsung Galaxy Z Flip3 8/256Gb,  SM-F711B,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-z-flip3-sm-f711b-256gb-8gb-chernyi-3g-4g-2sim-1784683/",
+        "img_link": "https://cdn.citilink.ru/97dEaIjs2wbbm5zQQ0ZghR3C1XgWIV6oBBmS1T5Zdy4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784683_v01_b.jpg",
+        "full_price": 68990,
+        "discount_price": 63090,
+        "discount": 8
     },
     {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  медный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-mednyi-3g-4g-2sim-6-1855551/",
-        "img_link": "https://cdn.citilink.ru/L819RkM_q4xSiLEU8j-B8ygffoIQtq0FOQHsHYPdLL4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855551_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
+        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-sinii-3g-4g-2sim-6-6-ips-720x1-1851685/",
+        "img_link": "https://cdn.citilink.ru/em8drVk5riQNLDKAa_6LpbKQGzS13hvpOqKwTGiYVgM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851685_v01_b.jpg",
+        "full_price": 7990,
+        "discount_price": 7490,
+        "discount": 6
     },
     {
-        "title": "Смартфон Samsung Galaxy A03 4/64Gb,  SM-A035F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-sm-a035f-64gb-4gb-chernyi-3g-4g-6-5-720x16-1851456/",
-        "img_link": "https://cdn.citilink.ru/L-JErxnaa4VLCekAzbQrXh-CmRXSQWBxQyNlNs9NBD0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851456_v01_b.jpg",
+        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zelenyi-3g-4g-6-82-and10-1744229/",
+        "img_link": "https://cdn.citilink.ru/h-NCngM0uYimPkv-UbK0rRIdt_EbjwmpwjQnMvnGKek/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744229_v01_b.jpg",
         "full_price": 9990,
         "discount_price": 8990,
         "discount": 10
     },
     {
-        "title": "Смартфон Xiaomi Redmi 10A 2/32 GB,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10a-32gb-2gb-seryi-3g-4g-6-5-1080x2400-and11-50m-1835391/",
-        "img_link": "https://cdn.citilink.ru/zTQhNFePrKTs28FdJaYs_Krd3ofU4tSItn0z7aoo4t8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1835391_v01_b.jpg",
-        "full_price": 9510,
-        "discount_price": 7490,
-        "discount": 21
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 10A 2/32 GB,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10a-32gb-2gb-sinii-3g-4g-6-5-1080x2400-and11-50m-1835381/",
-        "img_link": "https://cdn.citilink.ru/JhvLgz7xWh-JpHb9335JkgYHsMwMUypez9SX-uZrsTY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1835381_v01_b.jpg",
-        "full_price": 9450,
-        "discount_price": 7490,
+        "title": "Смартфон OPPO A17k 3/64Gb,  CPH2471,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17k-cph2477-64gb-3gb-goluboi-3g-4g-6-56-720x1600-and12-1872781/",
+        "img_link": "https://cdn.citilink.ru/q1zNp4aAFArgyX2_ZJzHso0wgx1f8ePQedrNzcImxHk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872781_v01_b.jpg",
+        "full_price": 8770,
+        "discount_price": 6990,
         "discount": 20
     },
     {
-        "title": "Смартфон Motorola Edge 30 pro 12/256Gb,  XT2201-1,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-motorola-edge-30-pro-xt2201-1-256gb-12gb-belyi-3g-4g-2sim-6-7-1656575/",
-        "img_link": "https://cdn.citilink.ru/ISKZEjfAu6ynEs2zwRQ68NfZJUpCdDln428EJsfEHak/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1656575_v01_b.jpg",
-        "full_price": 53990,
-        "discount_price": 47990,
-        "discount": 11
-    },
-    {
-        "title": "Смартфон BQ Surf 16Gb,  6631G,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-bq-surf-6631g-2gb-sinii-3g-4g-6-53-and10-0go-802-11-b-g-n-gps-1539653/",
-        "img_link": "https://cdn.citilink.ru/yc-vipeZayiCILCpQlQllNhPyEquxuHbabFzw1nJhX4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1539653_v01_b.jpg",
-        "full_price": 5090,
-        "discount_price": 3990,
-        "discount": 21
-    },
-    {
-        "title": "Смартфон DOOGEE S59 Pro 4/128Gb,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-doogee-s59-pro-128gb-4gb-zelenyi-3g-4g-5-71-and10-802-11-a-b-1522290/",
-        "img_link": "https://cdn.citilink.ru/EZUoHMauZFpQqhghTAICWHZnNDgE1eQxoZ4c2DqRpL0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1522290_v01_b.jpg",
-        "full_price": 15990,
-        "discount_price": 14990,
+        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  золотой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zolotistyi-3g-4g-6-6-720x1612-1875591/",
+        "img_link": "https://cdn.citilink.ru/omrLadu5A5YRjugagJg0xbRQys-Mz2hU15-FyoWahl4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875591_v01_b.jpg",
+        "full_price": 7990,
+        "discount_price": 7490,
         "discount": 6
     },
     {
-        "title": "Смартфон Apple iPhone 14 Pro 512Gb,  A2890,  золотой",
-        "link": "https://www.citilink.ru/product/smartfon-apple-iphone-14-pro-1tb-6gb-t-fioletovyi-3g-4g-6-1-1179x2556-1896567/",
-        "img_link": "https://cdn.citilink.ru/Vsqr6dFYVKIP5mmXD_zzaqUkLc7kCZ5hag7YUb11I_k/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896567_v01_b.jpg",
-        "full_price": 189000,
-        "discount_price": 142690,
+        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-goluboi-3g-4g-2sim-6-6-ips-720-1768893/",
+        "img_link": "https://cdn.citilink.ru/aIO5vvYZ7AMxR1yYsAMW-wl2R9qenN6pOcsR5BgLUDw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768893_v01_b.jpg",
+        "full_price": 5790,
+        "discount_price": 4990,
+        "discount": 13
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  бирюзовый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-biryuzovyi-3g-4g-2sim-6-6-tft-1649481/",
+        "img_link": "https://cdn.citilink.ru/ZJAXpSBPz0OIs90Ji-p2kLjR3EeUc9_iG73AvryczN8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649481_v01_b.jpg",
+        "full_price": 5990,
+        "discount_price": 5490,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-chernyi-3g-4g-2sim-6-6-tft-720-1649477/",
+        "img_link": "https://cdn.citilink.ru/80SF_BMeHOmHM-h-Qr3Gd-fpriQt8wlL_pqy8Sck_NU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649477_v01_b.jpg",
+        "full_price": 5990,
+        "discount_price": 5490,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон INFINIX Note 12 2023 8/256Gb,  X676C,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-256gb-8gb-belyi-3g-4g-6-7-1080x246-1875610/",
+        "img_link": "https://cdn.citilink.ru/jIe9_gs4Yas_qPWtaaEfaSzWzKjvx8au00vaxyDViW0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875610_v01_b.jpg",
+        "full_price": 22990,
+        "discount_price": 15990,
+        "discount": 30
+    },
+    {
+        "title": "Смартфон INFINIX Hot 20i 4/128Gb,  X665E,  золотой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-128gb-4gb-zolotistyi-3g-4g-6-6-720x1612-1875603/",
+        "img_link": "https://cdn.citilink.ru/ovTgXlFNswmJ8euB3cUWn1QErqF5NypTOlbA-80VnFc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875603_v01_b.jpg",
+        "full_price": 11850,
+        "discount_price": 8990,
         "discount": 24
     },
     {
-        "title": "Смартфон Samsung Galaxy A54 5G 6/128Gb,  SM-A546E,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a54-sm-a546e-128gb-6gb-belyi-3g-4g-6-4-1080x24-1911819/",
-        "img_link": "https://cdn.citilink.ru/OD75TJoNHCXpAu5KZtfzxYBxpdRQyANd5E7emMH5Rl8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911819_v01_b.jpg",
-        "full_price": 43140,
-        "discount_price": 37490,
-        "discount": 13
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A34 5G 6/128Gb,  SM-A346E,  графит",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-128gb-6gb-chernyi-grafit-3g-4g-6-1911868/",
-        "img_link": "https://cdn.citilink.ru/IzXXEH5ACO3U1tH7q1V8UaHKMsPnvXqNlOFZOdt2-tY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911868_v01_b.jpg",
-        "full_price": 35600,
-        "discount_price": 31090,
-        "discount": 12
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A34 5G 8/256Gb,  SM-A346E,  графит",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-256gb-8gb-chernyi-grafit-3g-4g-6-1911849/",
-        "img_link": "https://cdn.citilink.ru/YyJirMtfijX73oOZO4dutnDC0u3XUMww3FcwYrV6ZOE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911849_v01_b.jpg",
-        "full_price": 42100,
-        "discount_price": 37290,
-        "discount": 11
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A34 5G 8/256Gb,  SM-A346E,  лаванда",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-256gb-8gb-lavanda-3g-4g-6-6-1080x-1911841/",
-        "img_link": "https://cdn.citilink.ru/mC5a-gD2AgCKF0G3Hoxcql0_n3K2ndhAsXW2J21OcvM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911841_v01_b.jpg",
-        "full_price": 42100,
-        "discount_price": 37290,
-        "discount": 11
-    },
-    {
-        "title": "Смартфон INFINIX Smart 7 3/64Gb,  X6515,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-7-x6515-64gb-3gb-zelenyi-3g-4g-2sim-6-6-ips-720-1907655/",
-        "img_link": "https://cdn.citilink.ru/5IsGS91p3qkQJoDe7cWJ6Xb_xYapTxDfIGj3r6sQOg8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1907655_v01_b.jpg",
-        "full_price": 8990,
-        "discount_price": 6490,
-        "discount": 27
-    },
-    {
-        "title": "Смартфон INFINIX Smart 7 3/64Gb,  X6515,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-7-x6515-64gb-3gb-chernyi-3g-4g-6-7-1080x2460-xo-1905845/",
-        "img_link": "https://cdn.citilink.ru/FNnetAYyajKENru5D-ati824JCKvSHuA1T_i81AgNVE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1905845_v01_b.jpg",
-        "full_price": 8990,
-        "discount_price": 6490,
-        "discount": 27
-    },
-    {
-        "title": "Смартфон ZTE Blade V40 Vita 4/128Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-zte-blade-v40-vita-128gb-4gb-chernyi-3g-4g-2sim-6-75-ips-720x-1901267/",
-        "img_link": "https://cdn.citilink.ru/89JRW2Qe0VCEGzHF8FDg0jFnEcR9iFd-__vLGPPvrQw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901267_v01_b.jpg",
-        "full_price": 13460,
-        "discount_price": 9990,
-        "discount": 25
-    },
-    {
-        "title": "Смартфон ZTE Blade A52 4/64Gb,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-zte-blade-a52-64gb-4gb-sinii-3g-4g-2sim-6-52-ips-720x1600-and-1901258/",
-        "img_link": "https://cdn.citilink.ru/zhIQKkBfxbxKx8P2_QfkxGHkMYhGzbQPZfPJXmeAwuA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901258_v01_b.jpg",
-        "full_price": 8510,
-        "discount_price": 6990,
-        "discount": 17
-    },
-    {
-        "title": "Смартфон ZTE Blade A52 4/64Gb,  золотой",
-        "link": "https://www.citilink.ru/product/smartfon-zte-blade-a52-64gb-4gb-zolotistyi-3g-4g-2sim-6-52-ips-720x160-1901249/",
-        "img_link": "https://cdn.citilink.ru/8mA3II3grQEqatZEMSIAzSAUsmehe6HV-q8EZ10_vOs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901249_v01_b.jpg",
-        "full_price": 9690,
-        "discount_price": 863,
-        "discount": 91
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A04e 3/64Gb,  SM-A042F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a04s-sm-a042f-64gb-4gb-chernyi-3g-4g-6-5-720x1-1896516/",
-        "img_link": "https://cdn.citilink.ru/xch4ErGVLqMMJcNlXKR7SU6qD80pMKqEk4eY2-BibZ4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896516_v01_b.jpg",
+        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-nfc-64gb-4gb-sinii-3g-4g-6-82-720x-1835080/",
+        "img_link": "https://cdn.citilink.ru/sTwyMAn-usfdy4CYajsNunXA0msfkmI3LpkPwVPghK0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1835080_v01_b.jpg",
         "full_price": 9990,
-        "discount_price": 8690,
+        "discount_price": 8990,
+        "discount": 10
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-zelenyi-3g-4g-2sim-6-6-ips-720-1768864/",
+        "img_link": "https://cdn.citilink.ru/i3w4JhT_ofMoOw9PKbEjKj0xyZmU2xmzzcV1snNFYDk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768864_v01_b.jpg",
+        "full_price": 5990,
+        "discount_price": 5490,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон Huawei nova 9 8/128Gb,  NAM-LX9,  звездно-голубой",
+        "link": "https://www.citilink.ru/product/smartfon-huawei-nova-9-nam-lx9-128gb-6gb-zv-nebo-3g-4g-6-4-1080x2340-a-1631690/",
+        "img_link": "https://cdn.citilink.ru/iA2VE2kbxRbiUIolO1dVkx1phfxipR-DOGqDBMOnfEg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1631690_v01_b.jpg",
+        "full_price": 39280,
+        "discount_price": 34080,
         "discount": 13
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20S 8/128Gb,  X6827,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20s-x6827-128gb-8gb-belyi-3g-4g-6-78-1080x2460-an-1896279/",
-        "img_link": "https://cdn.citilink.ru/qPNlFOPqPlf7iawo92ghCnhCj-meG_n6Lfi0pogATLQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896279_v01_b.jpg",
-        "full_price": 19940,
-        "discount_price": 11990,
-        "discount": 39
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20S 8/128Gb,  X6827,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20s-x6827-128gb-8gb-sinii-3g-4g-6-78-1080x2460-an-1896277/",
-        "img_link": "https://cdn.citilink.ru/0LumViVWNnLeuP-wPBpwen4k33k2o8dPd2yhmtXAyEg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896277_v01_b.jpg",
-        "full_price": 19940,
-        "discount_price": 11990,
-        "discount": 39
-    },
-    {
-        "title": "Смартфон Motorola Moto e20 2/32Gb,  XT2155-6,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-motorola-e20-xt2155-6-32gb-2gb-seryi-3g-4g-2sim-6-5-1600x720-1892004/",
-        "img_link": "https://cdn.citilink.ru/YsobcdEowlRxyRpRhUoTjz69gBxFcarYg4kuvys_wy0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1892004_v01_b.jpg",
-        "full_price": 10260,
-        "discount_price": 6990,
-        "discount": 31
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  медный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-mednyi-3g-4g-2sim-6-1859322/",
-        "img_link": "https://cdn.citilink.ru/FH407xEorM4wVr8jCplTYZpAZiAHsLvcvw5WORT5spw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859322_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  светло-зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-svetlo-zelenyi-3g-4-1855546/",
-        "img_link": "https://cdn.citilink.ru/5q2n3TKYAttF5xcP3rPzQYC0Fv9bApqWmtTK264Oes4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855546_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
     },
     {
         "title": "Смартфон INFINIX Hot 20i 4/128Gb,  X665E,  голубой",
@@ -1248,283 +232,539 @@
         "discount": 10
     },
     {
-        "title": "Смартфон REALME 9 5G 4/64Gb,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-realme-9-5g-64gb-4gb-belyi-3g-4g-2sim-6-6-super-clear-lcd-108-1851169/",
-        "img_link": "https://cdn.citilink.ru/xfhUJogDleZQGhrip9ZFo2v3JDN-J9Q4CGRGx9uUI0A/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851169_v01_b.jpg",
-        "full_price": 16990,
-        "discount_price": 14490,
-        "discount": 14
-    },
-    {
-        "title": "Смартфон Xiaomi Redmi 10A 2/32 GB,  серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-xiaomi-redmi-10a-32gb-2gb-serebristyi-3g-4g-6-53-720x1600-and-1840855/",
-        "img_link": "https://cdn.citilink.ru/6VD8NJ9tncklNRAjsfpYlTlY4y-pnstGWCTXKIUuEc0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1840855_v01_b.jpg",
-        "full_price": 9480,
-        "discount_price": 7490,
-        "discount": 20
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  медный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-mednyi-3g-4g-2sim-6-1809719/",
-        "img_link": "https://cdn.citilink.ru/uPAelrGbX9RBdZ0NDRObcH-sY6EMSC6jAsB-2tt8qEg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1809719_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
-    },
-    {
-        "title": "Смартфон INFINIX Smart 6 Plus 3/64Gb,  X6823C,  фиолетовый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-3gb-fioletovyi-3g-4g-2sim-6-1808580/",
-        "img_link": "https://cdn.citilink.ru/yP1-LVzg9HJoumSKI_7ZQwkEX9k_9usRK0topI52u4A/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808580_v01_b.jpg",
+        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-sinii-3g-4g-2sim-6-82-tf-1808574/",
+        "img_link": "https://cdn.citilink.ru/LabJDEWFLWsRcE2QTlN9NEhIfJk-1Ys5Y-9j8r-510U/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808574_v01_b.jpg",
         "full_price": 6990,
         "discount_price": 6490,
         "discount": 7
     },
     {
-        "title": "Смартфон INOI 7 2020 2/16Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-inoi-7-2020-16gb-2gb-chernyi-3g-4g-2sim-6-22-ips-incell-720x1-1688798/",
-        "img_link": "https://cdn.citilink.ru/Wh0_DTOP9eu4VT181f6Dnr8wj-0gy2gaWEGd6b19JfM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1688798_v01_b.jpg",
-        "full_price": 5980,
-        "discount_price": 3990,
-        "discount": 33
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/256Gb,  SM-G990E,  серый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990-256gb-seryi-3g-4g-2sim-6-4-dyna-1794238/",
+        "img_link": "https://cdn.citilink.ru/eAx1qyW2PBNDHm9Zd-qo1I9SSGzzdMQvvr3VIm9RJaM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1794238_v01_b.jpg",
+        "full_price": 47490,
+        "discount_price": 44990,
+        "discount": 5
     },
     {
-        "title": "Смартфон DOOGEE S35 2/16Gb,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-doogee-s35-16gb-2gb-chernyi-3g-4g-5-and10-802-11-b-g-n-gps-1579731/",
-        "img_link": "https://cdn.citilink.ru/JJrjZ1oEMCCg12MiijU0zQ3baqwztNXM-b09EnZhBqg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1579731_v01_b.jpg",
-        "full_price": 6090,
-        "discount_price": 4990,
-        "discount": 18
-    },
-    {
-        "title": "Смартфон BQ Fun 8Gb,  5031G,  графит",
-        "link": "https://www.citilink.ru/product/smartfon-bq-fun-5031g-1gb-grafit-3g-4g-5-and10-0go-802-11-b-g-n-gps-1539627/",
-        "img_link": "https://cdn.citilink.ru/rdy_DaoN7dQSsNq86PXg6qgx_ENox-l_BJXl5ES2OC8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1539627_v01_b.jpg",
-        "full_price": 3490,
-        "discount_price": 2690,
+        "title": "Смартфон Xiaomi POCO F5 8/256Gb,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-f5-256gb-8gb-sinii-3g-4g-2sim-6-67-amoled-1080x24-1924740/",
+        "img_link": "https://cdn.citilink.ru/1JNpSayTv2TGehkWODJmRSG9wHTYkeJNJQSvAAt-aqU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1924740_v01_b.jpg",
+        "full_price": 41110,
+        "discount_price": 31990,
         "discount": 22
     },
     {
-        "title": "Смартфон Samsung Galaxy A54 5G 6/128Gb,  SM-A546E,  лаванда",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a54-sm-a546e-128gb-6gb-lavanda-3g-4g-6-4-1080x-1911827/",
-        "img_link": "https://cdn.citilink.ru/t43XHZpKRRDUMW4mWy08IPoMXlvtN46wi8YT4h0FfFs/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911827_v01_b.jpg",
-        "full_price": 43140,
-        "discount_price": 37490,
-        "discount": 13
+        "title": "Смартфон INFINIX Hot 30i 4/128Gb,  X669D,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-30i-x669d-128gb-4gb-chernyi-3g-4g-6-6-720x1612-an-1914540/",
+        "img_link": "https://cdn.citilink.ru/kPRzlrVArfxyG-v89V059ytX0OqV1zKJ0-NBp3rmvGE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914540_v01_b.jpg",
+        "full_price": 11990,
+        "discount_price": 9990,
+        "discount": 16
     },
     {
-        "title": "Смартфон Samsung Galaxy A34 5G 6/128Gb,  SM-A346E,  зеленый лайм",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-128gb-6gb-zelenyi-laim-3g-4g-6-6-1911867/",
-        "img_link": "https://cdn.citilink.ru/NnmcFtGqrKlUeymztzJL23PdsE8EAkT62YE4fUyBWLU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911867_v01_b.jpg",
-        "full_price": 35600,
-        "discount_price": 31090,
-        "discount": 12
+        "title": "Смартфон Apple iPhone 11 128Gb,  A2221,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-apple-iphone-11-a2221-128gb-belyi-3g-4g-6-1-828x1792-ios-15-1-1769192/",
+        "img_link": "https://cdn.citilink.ru/gQopj6bNTKuRLw9lExiGqVO8-93xzLU7bzbiKvZHqSI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1769192_v01_b.jpg",
+        "full_price": 59790,
+        "discount_price": 54350,
+        "discount": 9
     },
     {
-        "title": "Смартфон Samsung Galaxy A34 5G 6/128Gb,  SM-A346E,  серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-128gb-6gb-serebristyi-3g-4g-6-6-1-1911862/",
-        "img_link": "https://cdn.citilink.ru/VpzBva8a50fYLa16pC5rTlcQZsCQYHULURZyolxjfW8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911862_v01_b.jpg",
-        "full_price": 35600,
-        "discount_price": 31090,
-        "discount": 12
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A34 5G 8/256Gb,  SM-A346E,  серебристый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a34-sm-a346e-256gb-8gb-serebristyi-3g-4g-6-6-1-1911840/",
-        "img_link": "https://cdn.citilink.ru/j7vQyRJuUG9cI9Cvf89DEt09QYv6b9aCOCMBI_5VyDo/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911840_v01_b.jpg",
-        "full_price": 42100,
-        "discount_price": 37290,
-        "discount": 11
-    },
-    {
-        "title": "Смартфон Inoi 7 2020 16Gb 2Gb черный 3G 4G 2Sim 6.22\" IPS 720x1520 And9 8Mpix 802.11 b/g/n GPS (Б/У)",
-        "link": "https://www.citilink.ru/product/smartfon-inoi-7-2020-16gb-2gb-chernyi-3g-4g-2sim-6-22-ips-720x1520-and-M00258158/",
-        "img_link": "https://cdn.citilink.ru/Wh0_DTOP9eu4VT181f6Dnr8wj-0gy2gaWEGd6b19JfM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1688798_v01_b.jpg",
-        "full_price": 3401,
-        "discount_price": 2590,
-        "discount": 23
-    },
-    {
-        "title": "Смартфон INFINIX Smart 7 3/64Gb,  X6515,  белый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-7-x6515-64gb-3gb-belyi-3g-4g-2sim-6-6-ips-720x1-1907652/",
-        "img_link": "https://cdn.citilink.ru/KHlRFXuOpO2pfAeLBNcqv3zy6-GMyPMiKIO8Vkod85w/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1907652_v01_b.jpg",
-        "full_price": 8990,
-        "discount_price": 6490,
-        "discount": 27
-    },
-    {
-        "title": "Смартфон ZTE Blade A52 4/64Gb,  серый",
-        "link": "https://www.citilink.ru/product/smartfon-zte-blade-a52-64gb-4gb-seryi-3g-4g-2sim-6-52-ips-720x1600-and-1901259/",
-        "img_link": "https://cdn.citilink.ru/7Uw-KGfdPffM7MtGIatOQqx4GyTwiGfNi7RNB3LYeFE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1901259_v01_b.jpg",
-        "full_price": 8510,
-        "discount_price": 730,
-        "discount": 91
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A04s 3/32Gb,  SM-A047F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a04s-sm-a047f-32gb-3gb-chernyi-3g-4g-6-5-720x1-1896951/",
-        "img_link": "https://cdn.citilink.ru/Z8kqQdOk0wK6lAQ9eTWKk2-YZz8vd3ocMI8hRIE1rUA/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896951_v01_b.jpg",
-        "full_price": 10810,
-        "discount_price": 9690,
-        "discount": 10
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A04s 3/32Gb,  SM-A047F,  медный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a04s-sm-a047f-32gb-3gb-mednyi-3g-4g-6-5-720x16-1896950/",
-        "img_link": "https://cdn.citilink.ru/TJfQiszqdHFEB1pS0hdZ9HvOYClyCxh06BOELkde5oM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896950_v01_b.jpg",
-        "full_price": 10810,
-        "discount_price": 9690,
-        "discount": 10
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A04s 3/32Gb,  SM-A047F,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a04s-sm-a047f-32gb-3gb-zelenyi-3g-4g-6-5-720x1-1896504/",
-        "img_link": "https://cdn.citilink.ru/3C2sz8AIesHqvbReigrrV-aLkf5uu7Ur9fv1JVsZiOE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1896504_v01_b.jpg",
-        "full_price": 10810,
-        "discount_price": 9690,
-        "discount": 10
-    },
-    {
-        "title": "Смартфон vivo Y02 2/32Gb,  лавандовое поле",
-        "link": "https://www.citilink.ru/product/smartfon-vivo-y02-32gb-2gb-lavandovoe-pole-3g-4g-6-51-720x1600-and12-1-1890746/",
-        "img_link": "https://cdn.citilink.ru/_M0xVRkmsTqYJ_opg60k1iIsL_-NB0GvFKKFhcIwngk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1890746_v01_b.jpg",
-        "full_price": 8960,
-        "discount_price": 699,
-        "discount": 92
-    },
-    {
-        "title": "Смартфон vivo Y02 2/32Gb,  серый космос",
-        "link": "https://www.citilink.ru/product/smartfon-vivo-y02-32gb-2gb-seryi-kosmos-3g-4g-6-51-720x1600-and12-13mp-1890745/",
-        "img_link": "https://cdn.citilink.ru/zeqvowarVZ1a2c6Rq6jkIQBS22sJGcZ72t0yUlc_T4w/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1890745_v01_b.jpg",
-        "full_price": 8960,
-        "discount_price": 699,
-        "discount": 92
-    },
-    {
-        "title": "Смартфон INFINIX Hot 20i 4/128Gb,  X665E,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-128gb-4gb-zelenyi-3g-4g-2sim-6-6-ips-72-1855403/",
-        "img_link": "https://cdn.citilink.ru/AFCjZ5hrLZ6NG8xNs_SSHv5FRrkvUveowQJNvpx-1ZQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855403_v01_b.jpg",
+        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  золотистый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zolotistyi-3g-4g-6-82-and-1744235/",
+        "img_link": "https://cdn.citilink.ru/wKXQJ0Oq7zr2Fabj3CWUrdscK-6Z2xj_cIRrh2Zcg5M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744235_v01_b.jpg",
         "full_price": 9990,
         "discount_price": 8990,
         "discount": 10
     },
     {
-        "title": "Смартфон ARK CoolPad 10A 3/64Gb,  черный(плохая упаковка)",
-        "link": "https://www.citilink.ru/product/smartfon-ark-coolpad-10a-64gb-3gb-chernyi-3g-4g-2sim-6-517-720x1600-an-1855314/",
-        "img_link": "https://cdn.citilink.ru/CJ38rxYxYGKdwoFkFkgYscMbrQ_eVr6MXZT_xXQhurQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1727918_v01_b.jpg",
-        "full_price": 5310,
-        "discount_price": 4770,
-        "discount": 10
-    },
-    {
-        "title": "Смартфон Samsung Galaxy Z Flip 4 8/256Gb,  SM-F721B,  золотистый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-z-flip-4-sm-f721b-256gb-8gb-zolotistyi-3g-4g-2-1849237/",
-        "img_link": "https://cdn.citilink.ru/INVE4OTiE8aCT78xcFZD6j-gi6xr3KJvUJ_aNKFUULc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1849237_v01_b.jpg",
-        "full_price": 74790,
-        "discount_price": 70990,
-        "discount": 5
-    },
-    {
-        "title": "Смартфон Samsung Galaxy A13 3/32Gb,  SM-A135F,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a13-sm-a135f-32gb-3gb-sinii-3g-4g-6-6-1080x240-1841399/",
-        "img_link": "https://cdn.citilink.ru/1O9hvPEcLQk_RSsRmoYDZyf2-UBMKKdx9QZDV9h7vUE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1841399_v01_b.jpg",
-        "full_price": 12790,
+        "title": "Смартфон INFINIX Hot 30i 8/128Gb,  X669D,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-30i-x669d-128gb-8gb-sinii-3g-4g-6-6-720x1612-and1-1914533/",
+        "img_link": "https://cdn.citilink.ru/85VUaXqi_D3omaI6fo9DXUt9u0jgkYLR8PSgJUohWeI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914533_v01_b.jpg",
+        "full_price": 13990,
         "discount_price": 10990,
-        "discount": 14
+        "discount": 21
     },
     {
-        "title": "Смартфон Samsung Galaxy Z Fold 4 12/256Gb,  SM-F936B,  серо-зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-fold4-sm-f936b-512gb-12gb-seryi-3g-4g-7-6-1768-1838725/",
-        "img_link": "https://cdn.citilink.ru/K34clLakLjO2wG-o5LqUy_gsE5XHRTP_oeLwPXAoUMU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1838725_v01_b.jpg",
-        "full_price": 122990,
-        "discount_price": 109990,
-        "discount": 10
+        "title": "Смартфон INFINIX Hot 30i 8/128Gb,  X669D,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-30i-x669d-128gb-8gb-belyi-3g-4g-6-6-720x1612-and1-1914532/",
+        "img_link": "https://cdn.citilink.ru/5d6Rk8phAlQJdeg9DnUG40heFBm0_xl9UJuNwf47zwE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914532_v01_b.jpg",
+        "full_price": 13990,
+        "discount_price": 10990,
+        "discount": 21
     },
     {
-        "title": "Смартфон INFINIX Smart 6 Plus 3/64Gb,  X6823C,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-3gb-sinii-3g-4g-2sim-6-82-tf-1812773/",
-        "img_link": "https://cdn.citilink.ru/zHRxkqikSdwk_V8MfzG-n9Y-V6Zk1BUAngYvwCR-jrQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1812773_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 6490,
-        "discount": 7
+        "title": "Смартфон ITEL Vision 5 Plus 4/128Gb,  серебристый",
+        "link": "https://www.citilink.ru/product/smartfon-itel-vision-5-plus-128gb-4gb-serebristyi-3g-4g-6-6-720x1600-a-1913448/",
+        "img_link": "https://cdn.citilink.ru/SPrEif1CrHZRK6KWL_oRvwFOBa5I6FaHGwaVR4k8xH0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1913448_v01_b.jpg",
+        "full_price": 10990,
+        "discount_price": 8990,
+        "discount": 18
     },
     {
-        "title": "Смартфон Samsung Galaxy A03 Core 32Gb,  SM-A032F,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a03-core-sm-a032f-32gb-2gb-chernyi-3g-4g-6-5-7-1809721/",
-        "img_link": "https://cdn.citilink.ru/EIKD1aZh70r6RRiZLVwh69dBznFsXS2YMiTXwKF8JUg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1809721_v01_b.jpg",
-        "full_price": 6590,
-        "discount_price": 5990,
-        "discount": 9
+        "title": "Смартфон Samsung Galaxy A24 6/128Gb,  SM-A245F,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a24-sm-a245f-128gb-6gb-chernyi-3g-4g-6-4-and13-1911940/",
+        "img_link": "https://cdn.citilink.ru/80VJCZTTuh8X19syamPAi_R55dDh9EZo6kIEZqHnkxk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911940_v01_b.jpg",
+        "full_price": 26630,
+        "discount_price": 22490,
+        "discount": 15
     },
     {
-        "title": "Смартфон INFINIX Smart 6 Plus 3/64Gb,  X6823C,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-3gb-chernyi-3g-4g-2sim-6-82-1808576/",
-        "img_link": "https://cdn.citilink.ru/130d3Obck8GyZVVQ_wxC-_AIBEwTQq2VS-0iSew3PPc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808576_v01_b.jpg",
-        "full_price": 6990,
-        "discount_price": 6490,
-        "discount": 7
+        "title": "Смартфон TECNO Spark Go 2023 3/64Gb,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-tecno-spark-go-2023-64gb-3gb-chernyi-3g-4g-6-56-2400x1080-and-1911803/",
+        "img_link": "https://cdn.citilink.ru/07Bxa8xEZgdWnxw0iDWlS9NnXCpiRdhxiVnozT4HcXE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911803_v01_b.jpg",
+        "full_price": 7490,
+        "discount_price": 6990,
+        "discount": 6
     },
     {
-        "title": "Смартфон ITEL Vision 2S 32Gb,  голубой",
-        "link": "https://www.citilink.ru/product/smartfon-itel-vision-2s-32gb-2gb-goluboi-3g-4g-2sim-6-5-ips-720x1600-a-1739589/",
-        "img_link": "https://cdn.citilink.ru/UtHDhekVU3Ofp9V5OGU05KsbhRBJAfLhXEqMZjEKIh4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1739589_v01_b.jpg",
-        "full_price": 6500,
-        "discount_price": 5990,
-        "discount": 7
-    },
-    {
-        "title": "Смартфон OUKITEL WP12 Pro 4/64Gb,  красный",
-        "link": "https://www.citilink.ru/product/smartfon-oukitel-wp12-pro-64gb-4gb-krasnyi-3g-4g-2sim-5-5-ips-720x1440-1722932/",
-        "img_link": "https://cdn.citilink.ru/QBoEiS0gdTH2B6GLzMM3legXhbYgcpNFmJY4fipo09A/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1722932_v01_b.jpg",
-        "full_price": 7990,
-        "discount_price": 7390,
-        "discount": 7
-    },
-    {
-        "title": "Смартфон INOI 7 2020 2/16Gb,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-inoi-7-2020-16gb-2gb-sinii-3g-4g-2sim-6-22-ips-incell-720x152-1688806/",
-        "img_link": "https://cdn.citilink.ru/xTDQZToQsZaRHhzCS00UCpEJJo1aI9TMsmAzYeFR_sk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1688806_v01_b.jpg",
-        "full_price": 5190,
-        "discount_price": 4590,
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  серый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-seryi-3g-4g-6-4-1080-1927492/",
+        "img_link": "https://cdn.citilink.ru/nYFZBLHhwz7mLbske9NHD1K3UX2HJQlegVDyon56PJQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927492_v01_b.jpg",
+        "full_price": 49990,
+        "discount_price": 44290,
         "discount": 11
     },
     {
-        "title": "Смартфон TCL 20 SE 128Gb,  T671F,  зеленый",
-        "link": "https://www.citilink.ru/product/smartfon-tcl-20se-64gb-4gb-zelenyi-3g-4g-6-82-and11-802-11-a-b-g-n-ac-1557977/",
-        "img_link": "https://cdn.citilink.ru/YOmOCVIEOtQtQGKd1RJylgxEg2Lb36RS88qhIbY2jy0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1557977_v01_b.jpg",
-        "full_price": 10790,
-        "discount_price": 9990,
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  лаванда",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-fioletovyi-3g-4g-6-4-1927491/",
+        "img_link": "https://cdn.citilink.ru/zl5cJ3yUU9robOiUVIC7Lngai9hzrT047Cw_11M9KBg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927491_v01_b.jpg",
+        "full_price": 50030,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  светло-зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-zelenyi-3g-4g-6-4-10-1927489/",
+        "img_link": "https://cdn.citilink.ru/ZdZt0JiXloNAHObosgMa3D-Q2MjZnpG-EP4xcikqykM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927489_v01_b.jpg",
+        "full_price": 50030,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-belyi-3g-4g-6-4-1080-1926906/",
+        "img_link": "https://cdn.citilink.ru/4LjfwmO1HDKGV_tjuVbBZt1ElFp_eSZ9NhePZ8Nil-Y/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1926906_v01_b.jpg",
+        "full_price": 50030,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  фиолетовый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-fioletovyi-3g-4g-6-1-1923688/",
+        "img_link": "https://cdn.citilink.ru/VWdODIDAQ4XrwD6QMSR0kBrriI6mxNnwqtyCwGLgAW0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923688_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  белый фантом",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-belyi-3g-4g-6-1-1080-1923686/",
+        "img_link": "https://cdn.citilink.ru/oan_ToZM1DsFYjkMZHFoJaoOTkNT5tAYG3ogKYXWT-s/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923686_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-zelenyi-3g-4g-6-1-10-1923684/",
+        "img_link": "https://cdn.citilink.ru/Htu_7i0dkOHGZr5l3fO9NLJZGeP85EC5OewGC7G1eXg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923684_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  черный фантом",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-chernyi-fantom-3g-4g-1923682/",
+        "img_link": "https://cdn.citilink.ru/21ejrB778LLdu_Vko2a0NceRgSU7kBacrbPauZzqepc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923682_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон REALME C25s 4/64Gb,  серый",
+        "link": "https://www.citilink.ru/product/smartfon-realme-c25s-64gb-4gb-seryi-3g-4g-6-5-720x1600-and11-48mpix-80-1628173/",
+        "img_link": "https://cdn.citilink.ru/RxrTWTml02uATYPnkQ2ZiA7MM0gijFSQPCej3ym7x9Q/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1628173_v01_b.jpg",
+        "full_price": 10990,
+        "discount_price": 8990,
+        "discount": 18
+    },
+    {
+        "title": "Смартфон REALME C25s 4/64Gb,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-realme-c25s-64gb-4gb-sinii-3g-4g-6-5-720x1600-and11-48mpix-80-1628175/",
+        "img_link": "https://cdn.citilink.ru/1DQaE8TsNwNvFzDdVYI8mz5Y7xDAqr-jVFzoTldZfh8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1628175_v01_b.jpg",
+        "full_price": 12700,
+        "discount_price": 8990,
+        "discount": 29
+    },
+    {
+        "title": "Смартфон TECNO Camon 19 Pro 8/128Gb,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-pro-128gb-8gb-chernyi-3g-4g-2sim-6-78-ips-1080-1800342/",
+        "img_link": "https://cdn.citilink.ru/Crn4i9ZRqpSkNZ8iye-p07W5-VfcwL9dp5b2js54oyw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800342_v01_b.jpg",
+        "full_price": 16990,
+        "discount_price": 15990,
+        "discount": 5
+    },
+    {
+        "title": "Смартфон TECNO Camon 19 Pro 8/128Gb,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-tecno-camon-19-pro-128gb-8gb-sinii-3g-4g-2sim-6-78-ips-1080x2-1800344/",
+        "img_link": "https://cdn.citilink.ru/_0Onvy7L60o_ZivtZCEluvvDm5_XJ4bNFCYVI1AoHRg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1800344_v01_b.jpg",
+        "full_price": 16990,
+        "discount_price": 15990,
+        "discount": 5
+    },
+    {
+        "title": "Смартфон OPPO A96 6/128Gb,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a96-128gb-6gb-chernyi-3g-4g-2sim-6-59-ips-720x1600-and12-1804652/",
+        "img_link": "https://cdn.citilink.ru/sDmIOKfpvid8Adq6g-2MeDZfVz33yz0f-ZTJNb3JVyc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1804652_v01_b.jpg",
+        "full_price": 21380,
+        "discount_price": 16990,
+        "discount": 20
+    },
+    {
+        "title": "Смартфон OPPO A17 4/64Gb,  CPH2477,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17-cph2477-64gb-4gb-chernyi-3g-4g-6-56-720x1600-and12-5-1872773/",
+        "img_link": "https://cdn.citilink.ru/USj8TQx6mgqiSDWmHiC6oWZJdIyabpXrZwdxKHbgr4g/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872773_v01_b.jpg",
+        "full_price": 10690,
+        "discount_price": 9490,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон OPPO A96 6/128Gb,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a96-128gb-6gb-sinii-3g-4g-2sim-6-59-ips-720x1600-and12-5-1804653/",
+        "img_link": "https://cdn.citilink.ru/e5hkhCuTQBa-9bnrgT2aBzS9q8ATarahMjMN9rw_ZF4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1804653_v01_b.jpg",
+        "full_price": 21220,
+        "discount_price": 16990,
+        "discount": 19
+    },
+    {
+        "title": "Смартфон Huawei nova Y90 4/128Gb,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-huawei-nova-y90-128gb-8gb-zelenyi-3g-4g-6-75-720x1600-and12-4-1809822/",
+        "img_link": "https://cdn.citilink.ru/Fkp8d5mFxXODKQS1EV-Snqmx5YKzDy-vReiEamQ72jw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1809822_v01_b.jpg",
+        "full_price": 16990,
+        "discount_price": 14990,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон OPPO A17 4/64Gb,  CPH2477,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17-cph2477-64gb-4gb-sinii-3g-4g-6-56-720x1600-and12-50m-1872777/",
+        "img_link": "https://cdn.citilink.ru/tx5_MPRa9HjwaUUoXFucnI1eOolUh6wd8kKHbTG4vqI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872777_v01_b.jpg",
+        "full_price": 10690,
+        "discount_price": 9490,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  фиолетовый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-fioletovyi-3g-4g-2sim-6-1812762/",
+        "img_link": "https://cdn.citilink.ru/-mb8xp99UZtfa7UUadQxBcZkLBsSeEPrHxOYDt-Kk54/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1812762_v01_b.jpg",
+        "full_price": 6990,
+        "discount_price": 6490,
         "discount": 7
     },
     {
-        "title": "Смартфон TCL 20Y 64Gb,  6156H,  синий",
-        "link": "https://www.citilink.ru/product/smartfon-tcl-20y-64gb-4gb-sinii-3g-4g-6-67-and11-802-11-a-b-g-n-ac-nfc-1557975/",
-        "img_link": "https://cdn.citilink.ru/H-fXmaskY-87zhrr_BmvuIrpXCyLIDqkISExrtHDOe4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1557975_v01_b.jpg",
-        "full_price": 11520,
+        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-chernyi-3g-4g-2sim-6-6-ips-720-1768873/",
+        "img_link": "https://cdn.citilink.ru/GORM-1Pz3qrhN5ycL2hmdo16PSm3BrH8pU0IAcd1xO8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768873_v01_b.jpg",
+        "full_price": 5790,
+        "discount_price": 4990,
+        "discount": 13
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-chernyi-3g-4g-2sim-6-82-1808570/",
+        "img_link": "https://cdn.citilink.ru/LfnURaRpA0ejK0cyF268v6vZ0VJDaowIq23R0eN25yk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808570_v01_b.jpg",
+        "full_price": 6990,
+        "discount_price": 6490,
+        "discount": 7
+    },
+    {
+        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zelenyi-3g-4g-2sim-6-6-ips-720-1855412/",
+        "img_link": "https://cdn.citilink.ru/q44B9hnllWhErHFiEt4GApPJLUQaIvTuNBCazPWPEIY/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1855412_v01_b.jpg",
+        "full_price": 7990,
+        "discount_price": 7490,
+        "discount": 6
+    },
+    {
+        "title": "Смартфон OPPO A17k 3/64Gb,  CPH2471,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17k-cph2477-64gb-3gb-sinii-3g-4g-6-56-720x1600-and12-50-1872778/",
+        "img_link": "https://cdn.citilink.ru/PZlXatBqiou7vNxCyhsTjqx3OtJt3zVyKUXIN7HwESM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872778_v01_b.jpg",
+        "full_price": 8720,
+        "discount_price": 6990,
+        "discount": 19
+    },
+    {
+        "title": "Смартфон Xiaomi Poco M5 4/128Gb,  желтый",
+        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-m5-128gb-4gb-zheltyi-3g-4g-6-58-1080x2400-and12-6-1859376/",
+        "img_link": "https://cdn.citilink.ru/8QV1J42e2iMRikfOL3wZRn5vcfhpHcU33hWd9ivhNE0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1859376_v01_b.jpg",
+        "full_price": 17470,
+        "discount_price": 14990,
+        "discount": 14
+    },
+    {
+        "title": "Смартфон Samsung Galaxy Z Flip3 8/256Gb,  SM-F711B,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-z-flip3-sm-f711b-256gb-8gb-chernyi-3g-4g-2sim-1784683/",
+        "img_link": "https://cdn.citilink.ru/97dEaIjs2wbbm5zQQ0ZghR3C1XgWIV6oBBmS1T5Zdy4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1784683_v01_b.jpg",
+        "full_price": 68990,
+        "discount_price": 63090,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-sinii-3g-4g-2sim-6-6-ips-720x1-1851685/",
+        "img_link": "https://cdn.citilink.ru/em8drVk5riQNLDKAa_6LpbKQGzS13hvpOqKwTGiYVgM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851685_v01_b.jpg",
+        "full_price": 7990,
+        "discount_price": 7490,
+        "discount": 6
+    },
+    {
+        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zelenyi-3g-4g-6-82-and10-1744229/",
+        "img_link": "https://cdn.citilink.ru/h-NCngM0uYimPkv-UbK0rRIdt_EbjwmpwjQnMvnGKek/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744229_v01_b.jpg",
+        "full_price": 9990,
         "discount_price": 8990,
-        "discount": 21
+        "discount": 10
     },
     {
-        "title": "Смартфон Nokia C01 Plus DS 16Gb,  фиолетовый",
-        "link": "https://www.citilink.ru/product/smartfon-nokia-c01-plus-ds-16gb-1gb-fioletovyi-3g-4g-5-45-and11-802-11-1549905/",
-        "img_link": "https://cdn.citilink.ru/FPncEGuJLrPp0I9UucK8gr0CyrIgedejQcokUnaV1Uc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1549905_v01_b.jpg",
-        "full_price": 5090,
-        "discount_price": 3990,
-        "discount": 21
+        "title": "Смартфон OPPO A17k 3/64Gb,  CPH2471,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-oppo-a17k-cph2477-64gb-3gb-goluboi-3g-4g-6-56-720x1600-and12-1872781/",
+        "img_link": "https://cdn.citilink.ru/q1zNp4aAFArgyX2_ZJzHso0wgx1f8ePQedrNzcImxHk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1872781_v01_b.jpg",
+        "full_price": 8770,
+        "discount_price": 6990,
+        "discount": 20
     },
     {
-        "title": "Смартфон BQ Surf 16Gb,  6631G,  черный",
-        "link": "https://www.citilink.ru/product/smartfon-bq-surf-6631g-2gb-chernyi-3g-4g-6-53-and10-0go-802-11-b-g-n-g-1539652/",
-        "img_link": "https://cdn.citilink.ru/CJtN-Yxm3zvY1f38-eXv9QN8l46rhiBvD-qjTMz2uzc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1539652_v01_b.jpg",
-        "full_price": 5290,
-        "discount_price": 3990,
+        "title": "Смартфон INFINIX Hot 20i 4/64Gb,  X665E,  золотой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-64gb-4gb-zolotistyi-3g-4g-6-6-720x1612-1875591/",
+        "img_link": "https://cdn.citilink.ru/omrLadu5A5YRjugagJg0xbRQys-Mz2hU15-FyoWahl4/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875591_v01_b.jpg",
+        "full_price": 7990,
+        "discount_price": 7490,
+        "discount": 6
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 HD 2/32 GB,  X6512,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6512-32gb-2gb-goluboi-3g-4g-2sim-6-6-ips-720-1768893/",
+        "img_link": "https://cdn.citilink.ru/aIO5vvYZ7AMxR1yYsAMW-wl2R9qenN6pOcsR5BgLUDw/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768893_v01_b.jpg",
+        "full_price": 5790,
+        "discount_price": 4990,
+        "discount": 13
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  бирюзовый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-biryuzovyi-3g-4g-2sim-6-6-tft-1649481/",
+        "img_link": "https://cdn.citilink.ru/ZJAXpSBPz0OIs90Ji-p2kLjR3EeUc9_iG73AvryczN8/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649481_v01_b.jpg",
+        "full_price": 5990,
+        "discount_price": 5490,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-chernyi-3g-4g-2sim-6-6-tft-720-1649477/",
+        "img_link": "https://cdn.citilink.ru/80SF_BMeHOmHM-h-Qr3Gd-fpriQt8wlL_pqy8Sck_NU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1649477_v01_b.jpg",
+        "full_price": 5990,
+        "discount_price": 5490,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон INFINIX Note 12 2023 8/256Gb,  X676C,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-note-12-2023-x676c-256gb-8gb-belyi-3g-4g-6-7-1080x246-1875610/",
+        "img_link": "https://cdn.citilink.ru/jIe9_gs4Yas_qPWtaaEfaSzWzKjvx8au00vaxyDViW0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875610_v01_b.jpg",
+        "full_price": 22990,
+        "discount_price": 15990,
+        "discount": 30
+    },
+    {
+        "title": "Смартфон INFINIX Hot 20i 4/128Gb,  X665E,  золотой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-128gb-4gb-zolotistyi-3g-4g-6-6-720x1612-1875603/",
+        "img_link": "https://cdn.citilink.ru/ovTgXlFNswmJ8euB3cUWn1QErqF5NypTOlbA-80VnFc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1875603_v01_b.jpg",
+        "full_price": 11850,
+        "discount_price": 8990,
         "discount": 24
     },
     {
-        "title": "Смартфон CleverCel APPLE iPhone XS MAX 64Gb (подержанный c гарантией),  серый космос",
-        "link": "https://www.citilink.ru/product/smartfon-clevercel-iphone-xs-max-64gb-seryi-kosmos-3g-4g-6-5-1242x2688-1372569/",
-        "img_link": "https://cdn.citilink.ru/OBQGiHqfd0kFrctuGBmQIKBYu5x-Zr5dB8xS0hWba1c/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1372569_v01_b.jpg",
-        "full_price": 36590,
-        "discount_price": 3200,
-        "discount": 91
+        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-nfc-64gb-4gb-sinii-3g-4g-6-82-720x-1835080/",
+        "img_link": "https://cdn.citilink.ru/sTwyMAn-usfdy4CYajsNunXA0msfkmI3LpkPwVPghK0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1835080_v01_b.jpg",
+        "full_price": 9990,
+        "discount_price": 8990,
+        "discount": 10
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 32Gb,  X6511,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-x6511-32gb-2gb-zelenyi-3g-4g-2sim-6-6-ips-720-1768864/",
+        "img_link": "https://cdn.citilink.ru/i3w4JhT_ofMoOw9PKbEjKj0xyZmU2xmzzcV1snNFYDk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1768864_v01_b.jpg",
+        "full_price": 5990,
+        "discount_price": 5490,
+        "discount": 8
+    },
+    {
+        "title": "Смартфон Huawei nova 9 8/128Gb,  NAM-LX9,  звездно-голубой",
+        "link": "https://www.citilink.ru/product/smartfon-huawei-nova-9-nam-lx9-128gb-6gb-zv-nebo-3g-4g-6-4-1080x2340-a-1631690/",
+        "img_link": "https://cdn.citilink.ru/iA2VE2kbxRbiUIolO1dVkx1phfxipR-DOGqDBMOnfEg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1631690_v01_b.jpg",
+        "full_price": 39280,
+        "discount_price": 34080,
+        "discount": 13
+    },
+    {
+        "title": "Смартфон INFINIX Hot 20i 4/128Gb,  X665E,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-20i-x665e-128gb-4gb-sinii-3g-4g-2sim-6-6-ips-720x-1851710/",
+        "img_link": "https://cdn.citilink.ru/tgGPAj6fytM2aHl2SKToVUF0n06Wv3gEFQxoR4sFncc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1851710_v01_b.jpg",
+        "full_price": 9990,
+        "discount_price": 8990,
+        "discount": 10
+    },
+    {
+        "title": "Смартфон INFINIX Smart 6 Plus 2/64Gb,  X6823C,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-smart-6-plus-x6823c-64gb-2gb-sinii-3g-4g-2sim-6-82-tf-1808574/",
+        "img_link": "https://cdn.citilink.ru/LabJDEWFLWsRcE2QTlN9NEhIfJk-1Ys5Y-9j8r-510U/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1808574_v01_b.jpg",
+        "full_price": 6990,
+        "discount_price": 6490,
+        "discount": 7
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/256Gb,  SM-G990E,  серый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990-256gb-seryi-3g-4g-2sim-6-4-dyna-1794238/",
+        "img_link": "https://cdn.citilink.ru/eAx1qyW2PBNDHm9Zd-qo1I9SSGzzdMQvvr3VIm9RJaM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1794238_v01_b.jpg",
+        "full_price": 47490,
+        "discount_price": 44990,
+        "discount": 5
+    },
+    {
+        "title": "Смартфон Xiaomi POCO F5 8/256Gb,  синий",
+        "link": "https://www.citilink.ru/product/smartfon-xiaomi-poco-f5-256gb-8gb-sinii-3g-4g-2sim-6-67-amoled-1080x24-1924740/",
+        "img_link": "https://cdn.citilink.ru/1JNpSayTv2TGehkWODJmRSG9wHTYkeJNJQSvAAt-aqU/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1924740_v01_b.jpg",
+        "full_price": 41110,
+        "discount_price": 31990,
+        "discount": 22
+    },
+    {
+        "title": "Смартфон INFINIX Hot 30i 4/128Gb,  X669D,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-30i-x669d-128gb-4gb-chernyi-3g-4g-6-6-720x1612-an-1914540/",
+        "img_link": "https://cdn.citilink.ru/kPRzlrVArfxyG-v89V059ytX0OqV1zKJ0-NBp3rmvGE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914540_v01_b.jpg",
+        "full_price": 11990,
+        "discount_price": 9990,
+        "discount": 16
+    },
+    {
+        "title": "Смартфон Apple iPhone 11 128Gb,  A2221,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-apple-iphone-11-a2221-128gb-belyi-3g-4g-6-1-828x1792-ios-15-1-1769192/",
+        "img_link": "https://cdn.citilink.ru/gQopj6bNTKuRLw9lExiGqVO8-93xzLU7bzbiKvZHqSI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1769192_v01_b.jpg",
+        "full_price": 59790,
+        "discount_price": 54350,
+        "discount": 9
+    },
+    {
+        "title": "Смартфон INFINIX Hot 12 Play NFC 4/64Gb,  X6816D,  золотистый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-12-play-x6816d-64gb-4gb-zolotistyi-3g-4g-6-82-and-1744235/",
+        "img_link": "https://cdn.citilink.ru/wKXQJ0Oq7zr2Fabj3CWUrdscK-6Z2xj_cIRrh2Zcg5M/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1744235_v01_b.jpg",
+        "full_price": 9990,
+        "discount_price": 8990,
+        "discount": 10
+    },
+    {
+        "title": "Смартфон INFINIX Hot 30i 8/128Gb,  X669D,  голубой",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-30i-x669d-128gb-8gb-sinii-3g-4g-6-6-720x1612-and1-1914533/",
+        "img_link": "https://cdn.citilink.ru/85VUaXqi_D3omaI6fo9DXUt9u0jgkYLR8PSgJUohWeI/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914533_v01_b.jpg",
+        "full_price": 13990,
+        "discount_price": 10990,
+        "discount": 21
+    },
+    {
+        "title": "Смартфон INFINIX Hot 30i 8/128Gb,  X669D,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-infinix-hot-30i-x669d-128gb-8gb-belyi-3g-4g-6-6-720x1612-and1-1914532/",
+        "img_link": "https://cdn.citilink.ru/5d6Rk8phAlQJdeg9DnUG40heFBm0_xl9UJuNwf47zwE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1914532_v01_b.jpg",
+        "full_price": 13990,
+        "discount_price": 10990,
+        "discount": 21
+    },
+    {
+        "title": "Смартфон ITEL Vision 5 Plus 4/128Gb,  серебристый",
+        "link": "https://www.citilink.ru/product/smartfon-itel-vision-5-plus-128gb-4gb-serebristyi-3g-4g-6-6-720x1600-a-1913448/",
+        "img_link": "https://cdn.citilink.ru/SPrEif1CrHZRK6KWL_oRvwFOBa5I6FaHGwaVR4k8xH0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1913448_v01_b.jpg",
+        "full_price": 10990,
+        "discount_price": 8990,
+        "discount": 18
+    },
+    {
+        "title": "Смартфон Samsung Galaxy A24 6/128Gb,  SM-A245F,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-a24-sm-a245f-128gb-6gb-chernyi-3g-4g-6-4-and13-1911940/",
+        "img_link": "https://cdn.citilink.ru/80VJCZTTuh8X19syamPAi_R55dDh9EZo6kIEZqHnkxk/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911940_v01_b.jpg",
+        "full_price": 26630,
+        "discount_price": 22490,
+        "discount": 15
+    },
+    {
+        "title": "Смартфон TECNO Spark Go 2023 3/64Gb,  черный",
+        "link": "https://www.citilink.ru/product/smartfon-tecno-spark-go-2023-64gb-3gb-chernyi-3g-4g-6-56-2400x1080-and-1911803/",
+        "img_link": "https://cdn.citilink.ru/07Bxa8xEZgdWnxw0iDWlS9NnXCpiRdhxiVnozT4HcXE/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1911803_v01_b.jpg",
+        "full_price": 7490,
+        "discount_price": 6990,
+        "discount": 6
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  серый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-seryi-3g-4g-6-4-1080-1927492/",
+        "img_link": "https://cdn.citilink.ru/nYFZBLHhwz7mLbske9NHD1K3UX2HJQlegVDyon56PJQ/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927492_v01_b.jpg",
+        "full_price": 49990,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  лаванда",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-fioletovyi-3g-4g-6-4-1927491/",
+        "img_link": "https://cdn.citilink.ru/zl5cJ3yUU9robOiUVIC7Lngai9hzrT047Cw_11M9KBg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927491_v01_b.jpg",
+        "full_price": 50030,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  светло-зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-zelenyi-3g-4g-6-4-10-1927489/",
+        "img_link": "https://cdn.citilink.ru/ZdZt0JiXloNAHObosgMa3D-Q2MjZnpG-EP4xcikqykM/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1927489_v01_b.jpg",
+        "full_price": 50030,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S21 FE 5G 8/128Gb,  SM-G990E,  белый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s21-fe-sm-g990e-128gb-6gb-belyi-3g-4g-6-4-1080-1926906/",
+        "img_link": "https://cdn.citilink.ru/4LjfwmO1HDKGV_tjuVbBZt1ElFp_eSZ9NhePZ8Nil-Y/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1926906_v01_b.jpg",
+        "full_price": 50030,
+        "discount_price": 44290,
+        "discount": 11
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  фиолетовый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-fioletovyi-3g-4g-6-1-1923688/",
+        "img_link": "https://cdn.citilink.ru/VWdODIDAQ4XrwD6QMSR0kBrriI6mxNnwqtyCwGLgAW0/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923688_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  белый фантом",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-belyi-3g-4g-6-1-1080-1923686/",
+        "img_link": "https://cdn.citilink.ru/oan_ToZM1DsFYjkMZHFoJaoOTkNT5tAYG3ogKYXWT-s/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923686_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  зеленый",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-zelenyi-3g-4g-6-1-10-1923684/",
+        "img_link": "https://cdn.citilink.ru/Htu_7i0dkOHGZr5l3fO9NLJZGeP85EC5OewGC7G1eXg/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923684_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
+    },
+    {
+        "title": "Смартфон Samsung Galaxy S22 5G 8/128Gb,  SM-S901E,  черный фантом",
+        "link": "https://www.citilink.ru/product/smartfon-samsung-galaxy-s22-5g-sm-s901e-128gb-8gb-chernyi-fantom-3g-4g-1923682/",
+        "img_link": "https://cdn.citilink.ru/21ejrB778LLdu_Vko2a0NceRgSU7kBacrbPauZzqepc/enlarge:1/gravity:ce/height:450/resizing_type:fit/width:450/plain/items/1923682_v01_b.jpg",
+        "full_price": 67580,
+        "discount_price": 59290,
+        "discount": 12
     }
 ]
